@@ -29,7 +29,7 @@ _Bildunterschrift für Bild 2_
     -   **Chrom:**`chrome://extensions/`
     -   **Rand:**`edge://extensions/`
 4.  Aktivieren Sie oben rechts den „Entwicklermodus“.
-5.  Click on "Load unpacked" and select the decompressed folder from step 2.
+5.  Klicken Sie auf „Entpackt laden“ und wählen Sie den dekomprimierten Ordner aus Schritt 2 aus.
 
 ## Verwendung
 
@@ -49,7 +49,7 @@ Wenn Sie auf Probleme stoßen oder Vorschläge haben, wenden Sie sich bitte an u
 
 ## Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe[LIZENZ](LICENSE)Einzelheiten finden Sie in der Datei.
+Dieses Projekt ist unter der Apache 2.0-Lizenz lizenziert – siehe[LIZENZ](LICENSE)Einzelheiten finden Sie in der Datei.
 
 ## Beiträge
 
