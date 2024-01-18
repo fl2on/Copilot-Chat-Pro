@@ -1,8 +1,6 @@
 # Copilot Chat Pro™
 ![image](https://user-images.githubusercontent.com/69091361/297645227-67e62dd6-9322-4622-aa35-f7624fdf8698.png)
 
-Unlimited characters in chatbox. (4000 -> ∞)
-
 ## Features
 
 - Remove character limit in chatboxes. (4000 -> ∞)
