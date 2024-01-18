@@ -23,7 +23,7 @@ _Légende de l'image 2_
 
 ## Installation
 
-1.  Allez au[page de sortie](https://github.com/qzxtu/Copilot-Chat-Pro/releases)et téléchargez la dernière version.
+1.  Go to the [page de sortie](https://github.com/qzxtu/Copilot-Chat-Pro/releases)et téléchargez la dernière version.
 2.  Décompressez le fichier zip téléchargé.
 3.  Ouvrez votre navigateur et accédez à :
     -   **Chrome:**`chrome://extensions/`
@@ -49,7 +49,7 @@ Si vous rencontrez des problèmes ou avez des suggestions, veuillez[ouvrir un su
 
 ## Licence
 
-Ce projet est sous licence MIT - voir le[LICENCE](LICENSE)fichier pour plus de détails.
+Ce projet est sous licence Apache 2.0 - voir le[LICENCE](LICENSE)fichier pour plus de détails.
 
 ## Contributions
 
