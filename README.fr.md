@@ -27,7 +27,7 @@ _Légende de l'image 2_
 2.  Décompressez le fichier zip téléchargé.
 3.  Ouvrez votre navigateur et accédez à :
     -   **Chrome:**`chrome://extensions/`
-    -   **Edge:**`edge://extensions/`
+    -   **Bord:**`edge://extensions/`
 4.  Activez le « Mode développeur » en haut à droite.
 5.  Cliquez sur "Charger décompressé" et sélectionnez le dossier décompressé de l'étape 2.
 
@@ -54,3 +54,8 @@ Ce projet est sous licence MIT - voir le[LICENCE](LICENSE)fichier pour plus de d
 ## Contributions
 
 Les contributions sont les bienvenues ! Veuillez créer le référentiel et créer une pull request avec vos modifications.
+
+## Soutien
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
+[![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
