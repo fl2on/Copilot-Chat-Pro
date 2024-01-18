@@ -8,10 +8,10 @@
 
 ## 特徴
 
--   Remove character limit in chatboxes. (4000 -> ∞)
+-   チャットボックスの文字数制限を削除します。 (4000 -> ∞)
 -   Bing と Copilot のサポート。
 
-## Screenshots
+## スクリーンショット
 
 ![Screenshot 1](https://user-images.githubusercontent.com/69091361/297644441-b17ea2d1-94c4-4543-92fd-d094bb8187c6.png)
 
@@ -21,7 +21,7 @@ _副操縦士_
 
 _Bing チャット_
 
-## Installation
+## インストール
 
 1.  に行きます[リリースページ](https://github.com/qzxtu/Copilot-Chat-Pro/releases)最新バージョンをダウンロードしてください。
 2.  ダウンロードしたzipファイルを解凍します。
@@ -41,7 +41,7 @@ _Bing チャット_
 
 このプロジェクトは、次のプロジェクトを更新する必要があるために作成されました。[Bing チャット プロ](https://github.com/blueagler/Bing-Chat-Pro)。後者は、Copilot Chat Pro™ 開発のインスピレーションとなりました。
 
-Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げます。[ブルーアグラー](https://github.com/blueagler), for their contribution to the community.
+Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げます。[ブルーアグラー](https://github.com/blueagler)、コミュニティへの貢献に対して。
 
 ## 問題
 
@@ -49,7 +49,7 @@ Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げま
 
 ## ライセンス
 
-This project is licensed under the Apache 2.0 License - see the [ライセンス](LICENSE)詳細については、ファイルを参照してください。
+このプロジェクトは、Apache 2.0 ライセンスに基づいてライセンスされています - を参照してください。[ライセンス](LICENSE)詳細については、ファイルを参照してください。
 
 ## 貢献
 
