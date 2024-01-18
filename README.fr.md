@@ -27,7 +27,7 @@ _Légende de l'image 2_
 2.  Décompressez le fichier zip téléchargé.
 3.  Ouvrez votre navigateur et accédez à :
     -   **Chrome:**`chrome://extensions/`
-    -   **Bord:**`edge://extensions/`
+    -   **Edge:**`edge://extensions/`
 4.  Activez le « Mode développeur » en haut à droite.
 5.  Cliquez sur "Charger décompressé" et sélectionnez le dossier décompressé de l'étape 2.
 
