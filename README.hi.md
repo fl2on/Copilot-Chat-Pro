@@ -15,18 +15,18 @@
 
 ![Screenshot 1](https://user-images.githubusercontent.com/69091361/297644441-b17ea2d1-94c4-4543-92fd-d094bb8187c6.png)
 
-_छवि 1 के लिए कैप्शन_
+_सह पायलट_
 
-![Screenshot 2](https://user-images.githubusercontent.com/69091361/297644441-b17ea2d1-94c4-4543-92fd-d094bb8187c6.png)
+![Screenshot 2](https://user-images.githubusercontent.com/69091361/297644588-1b3c7295-c6b2-46f9-9999-a99c95aad580.png)
 
-_छवि 2 के लिए कैप्शन_
+_बिंग चैट_
 
 ## इंस्टालेशन
 
 1.  के पास जाओ[रिलीज पेज](https://github.com/qzxtu/Copilot-Chat-Pro/releases)और नवीनतम संस्करण डाउनलोड करें।
 2.  डाउनलोड की गई ज़िप फ़ाइल को डीकंप्रेस करें।
 3.  अपना ब्राउज़र खोलें और यहां नेविगेट करें:
-    -   **क्रोम:**`chrome://extensions/`
+    -   **Chrome:**`chrome://extensions/`
     -   **किनारा:**`edge://extensions/`
 4.  शीर्ष दाईं ओर "डेवलपर मोड" सक्षम करें।
 5.  "लोड अनपैक्ड" पर क्लिक करें और चरण 2 से डीकंप्रेस्ड फ़ोल्डर का चयन करें।
@@ -34,7 +34,7 @@ _छवि 2 के लिए कैप्शन_
 ## प्रयोग
 
 1.  बिंग या कोपायलट वेबसाइट खोलें।
-2.  चरित्र सीमा की चिंता किए बिना चैट करें।
+2.  Chat without worrying about character limits.
 3.  इसका आनंद लें!
 
 ## स्वीकृतियाँ
