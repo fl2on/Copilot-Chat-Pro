@@ -29,7 +29,7 @@ _تسمية توضيحية للصورة 2_
     -   **كروم:**`chrome://extensions/`
     -   **حافة:**`edge://extensions/`
 4.  قم بتمكين "وضع المطور" في الجزء العلوي الأيمن.
-5.  انقر فوق "تحميل غير مضغوط" وحدد المجلد الذي تم فك ضغطه من الخطوة 2.
+5.  Click on "Load unpacked" and select the decompressed folder from step 2.
 
 ## الاستخدام
 
@@ -41,7 +41,7 @@ _تسمية توضيحية للصورة 2_
 
 تم إنشاء هذا المشروع بسبب الحاجة إلى تحديث المشروع التالي:[بنج الدردشة برو](https://github.com/blueagler/Bing-Chat-Pro). كان هذا الأخير بمثابة مصدر إلهام لتطوير برنامج Copilot Chat Pro™.
 
-شكر خاص للمبدع الأصلي لـ Bing Chat Pro،[blueagler](https://github.com/blueagler)، لمساهمتهم في المجتمع.
+A special thank you to the original creator of Bing Chat Pro, [blueagler](https://github.com/blueagler)، لمساهمتهم في المجتمع.
 
 ## مشاكل
 
@@ -51,6 +51,11 @@ _تسمية توضيحية للصورة 2_
 
 هذا المشروع مرخص بموجب ترخيص MIT - راجع[رخصة](LICENSE)ملف للحصول على التفاصيل.
 
-## Contributions
+## مساهمات
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+المساهمات هي موضع ترحيب! يرجى تفرع المستودع وإنشاء طلب سحب يتضمن تغييراتك.
+
+## يدعم
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
+[![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
