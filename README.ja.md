@@ -45,15 +45,15 @@ Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げま
 
 ## 問題
 
-If you encounter any issues or have suggestions, please [問題を開く](https://github.com/qzxtu/copilot-chat-pro/issues)。
+問題が発生したり、提案がある場合は、[問題を開く](https://github.com/qzxtu/copilot-chat-pro/issues)。
 
 ## ライセンス
 
-このプロジェクトは MIT ライセンスに基づいてライセンスされています - を参照してください。[ライセンス](LICENSE)詳細については、ファイルを参照してください。
+このプロジェクトは、Apache 2.0 ライセンスに基づいてライセンスされています - を参照してください。[ライセンス](LICENSE)詳細については、ファイルを参照してください。
 
 ## 貢献
 
-貢献は大歓迎です!リポジトリをフォークし、変更を加えたプル リクエストを作成してください。
+貢献は大歓迎です！リポジトリをフォークし、変更を加えたプル リクエストを作成してください。
 
 ## サポート
 
