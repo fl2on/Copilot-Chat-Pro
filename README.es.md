@@ -24,7 +24,7 @@ _Título de la imagen 2_
 ## Instalación
 
 1.  Ve a la[página de lanzamiento](https://github.com/qzxtu/Copilot-Chat-Pro/releases)y descargue la última versión.
-2.  Descomprima el archivo zip descargado.
+2.  Descomprime el archivo zip descargado.
 3.  Abra su navegador y navegue hasta:
     -   **Cromo:**`chrome://extensions/`
     -   **Borde:**`edge://extensions/`
@@ -33,7 +33,7 @@ _Título de la imagen 2_
 
 ## Uso
 
-1.  Open Bing or Copilot Website.
+1.  Abra el sitio web Bing o Copilot.
 2.  Chatea sin preocuparte por los límites de caracteres.
 3.  ¡Disfrútala!
 
@@ -54,3 +54,8 @@ Este proyecto tiene la licencia MIT (consulte la[LICENCIA](LICENSE)archivo para 
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Bifurque el repositorio y cree una solicitud de extracción con sus cambios.
+
+## Apoyo
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
+[![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
