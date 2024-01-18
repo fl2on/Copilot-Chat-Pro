@@ -8,7 +8,7 @@
 
 ## سمات
 
--   Remove character limit in chatboxes. (4000 -> ∞)
+-   إزالة عدد الأحرف المسموح به في صناديق الدردشة. (4000 -> ∞)
 -   دعم بنج ومساعد الطيار.
 
 ## لقطات الشاشة
@@ -24,7 +24,7 @@ _تسمية توضيحية للصورة 2_
 ## تثبيت
 
 1.  اذهب الى[صفحة الإصدار](https://github.com/qzxtu/Copilot-Chat-Pro/releases)وتنزيل أحدث إصدار.
-2.  Decompress the downloaded zip file.
+2.  قم بفك ضغط الملف المضغوط الذي تم تنزيله.
 3.  افتح المتصفح الخاص بك وانتقل إلى:
     -   **كروم:**`chrome://extensions/`
     -   **حافة:**`edge://extensions/`
@@ -51,6 +51,6 @@ _تسمية توضيحية للصورة 2_
 
 هذا المشروع مرخص بموجب ترخيص MIT - راجع[رخصة](LICENSE)ملف للحصول على التفاصيل.
 
-## مساهمات
+## Contributions
 
-المساهمات هي موضع ترحيب! يرجى تفرع المستودع وإنشاء طلب سحب يتضمن تغييراتك.
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
