@@ -41,7 +41,7 @@ _图片 2 的标题_
 
 该项目是出于更新以下项目的需要而创建的：[必应聊天专业版](https://github.com/blueagler/Bing-Chat-Pro)。后者为 Copilot Chat Pro™ 的开发提供了灵感。
 
-特别感谢 Bing Chat Pro 的原创者，[布劳艾格勒](https://github.com/blueagler)，以表彰他们对社区的贡献。
+特别感谢 Bing Chat Pro 的原创者，[布劳艾格勒](https://github.com/blueagler)，表彰他们对社区的贡献。
 
 ## 问题
 
@@ -54,3 +54,8 @@ _图片 2 的标题_
 ## 贡献
 
 欢迎贡献！请分叉存储库并使用您的更改创建拉取请求。
+
+## 支持
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
+[![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
