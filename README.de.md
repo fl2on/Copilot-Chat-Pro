@@ -2,9 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/69091361/297645227-67e62dd6-9322-4622-aa35-f7624fdf8698.png)
 
-| 🇺🇸                  | 🇨🇳                                        | 🇹🇼                                         | 🇮🇳                  | 🇫🇷                      | 🇦🇪                   | 🇩🇪                    | 🇯🇵                      | 🇪🇸                     |
-| --------------------- | ------------------------------------------- | -------------------------------------------- | --------------------- | ------------------------- | ---------------------- | ----------------------- | ------------------------- | ------------------------ |
-| [Englisch](README.md) | [Vereinfachtes Chinesisch](README.zh-CN.md) | [traditionelles Chinesisch](README.zh-TW.md) | [Hindi](README.hi.md) | [Française](README.fr.md) | [Araber](README.ar.md) | [Deutsch](README.de.md) | [japanisch](README.ja.md) | [Spanisch](README.es.md) |
+| 🇺🇸                  | 🇨🇳                                        | 🇹🇼                                         | 🇮🇳                  | 🇫🇷                        | 🇦🇪                   | 🇩🇪                    | 🇯🇵                      | 🇪🇸                     |
+| --------------------- | ------------------------------------------- | -------------------------------------------- | --------------------- | --------------------------- | ---------------------- | ----------------------- | ------------------------- | ------------------------ |
+| [Englisch](README.md) | [Vereinfachtes Chinesisch](README.zh-CN.md) | [traditionelles Chinesisch](README.zh-TW.md) | [Hindi](README.hi.md) | [Französisch](README.fr.md) | [Araber](README.ar.md) | [Deutsch](README.de.md) | [japanisch](README.ja.md) | [Spanisch](README.es.md) |
 
 ## Merkmale
 
@@ -41,7 +41,7 @@ _Bildunterschrift für Bild 2_
 
 Dieses Projekt entstand aus der Notwendigkeit heraus, das folgende Projekt zu aktualisieren:[Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro). Letzteres diente als Inspiration für die Entwicklung von Copilot Chat Pro™.
 
-Ein besonderer Dank geht an den ursprünglichen Schöpfer von Bing Chat Pro,[blueagler](https://github.com/blueagler), für ihren Beitrag zur Gemeinschaft.
+Ein besonderer Dank geht an den ursprünglichen Schöpfer von Bing Chat Pro,[Blueagler](https://github.com/blueagler), für ihren Beitrag zur Gemeinschaft.
 
 ## Probleme
 
