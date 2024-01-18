@@ -1,0 +1,25 @@
+{
+   "name":"Copilot Chat Pro™",
+   "version":"0.0.1",
+   "manifest_version":3,
+   "description":"Unlimited characters in chatbox. (4000 -> ∞)",
+   "icons":{
+      "16":"logo16x16.png",
+      "48":"logo48x48.png",
+      "128":"logo128x128.png"
+   },
+   "permissions":[],
+   "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["unlimited.js"],
+      "css": []
+    }
+  ],
+  "host_permissions": ["https://*/*"],
+   "action":{
+      "default_popup":"popup.html"
+   },
+   "author":"Qzxtu",
+   "homepage_url":"https://github.com/qzxtu"
+}
