@@ -47,7 +47,7 @@ If you encounter any issues or have suggestions, please [open an issue](https://
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributions
 
