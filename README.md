@@ -14,11 +14,11 @@
 
 ![Screenshot 1](https://user-images.githubusercontent.com/69091361/297644441-b17ea2d1-94c4-4543-92fd-d094bb8187c6.png)
 
-*Caption for Image 1*
+*Copilot*
 
-![Screenshot 2](https://user-images.githubusercontent.com/69091361/297644441-b17ea2d1-94c4-4543-92fd-d094bb8187c6.png)
+![Screenshot 2](https://user-images.githubusercontent.com/69091361/297644588-1b3c7295-c6b2-46f9-9999-a99c95aad580.png)
 
-*Caption for Image 2*
+*Bing Chat*
 
 ## Installation
 1. Go to the [release page](https://github.com/qzxtu/Copilot-Chat-Pro/releases) and download the latest version.
