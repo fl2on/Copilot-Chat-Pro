@@ -31,6 +31,12 @@
 2. Chat without worrying about character limits.
 3. Enjoy It!
 
+## Acknowledgements
+
+This project was created out of the need to update the following project: [Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro). The latter served as inspiration for the development of Copilot Chat Pro™.
+
+A special thank you to the original creator of Bing Chat Pro, [blueagler](https://github.com/blueagler), for their contribution to the community.
+
 ## Issues
 
 If you encounter any issues or have suggestions, please [open an issue](https://github.com/qzxtu/copilot-chat-pro/issues).
