@@ -6,7 +6,6 @@
         ]
     };
 
-
     async function removeCharLimit() {
         try {
             const serp = document.querySelector("#b_sydConvCont > cib-serp");
