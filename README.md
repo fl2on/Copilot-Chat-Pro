@@ -19,13 +19,13 @@ Unlimited characters in chatbox. (4000 -> ∞)
 *Caption for Image 2*
 
 ## Installation
-
-1. Clone the repository.
-2. Browser-Specific Installation:
+1. Go to the [release page](https://github.com/qzxtu/Copilot-Chat-Pro/releases) and download the latest version.
+2. Decompress the downloaded zip file.
+3. Open your browser and navigate to:
    - **Chrome:** `chrome://extensions/`
    - **Edge:** `edge://extensions/`
 4. Enable "Developer mode" in the top right.
-5. Click on "Load unpacked" and select the cloned repository folder.
+5. Click on "Load unpacked" and select the decompressed folder from step 2.
 
 ## Usage
 
