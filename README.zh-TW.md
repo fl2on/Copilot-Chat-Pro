@@ -15,11 +15,11 @@
 
 ![Screenshot 1](https://user-images.githubusercontent.com/69091361/297644441-b17ea2d1-94c4-4543-92fd-d094bb8187c6.png)
 
-_圖片 1 的標題_
+_副駕駛_
 
-![Screenshot 2](https://user-images.githubusercontent.com/69091361/297644441-b17ea2d1-94c4-4543-92fd-d094bb8187c6.png)
+![Screenshot 2](https://user-images.githubusercontent.com/69091361/297644588-1b3c7295-c6b2-46f9-9999-a99c95aad580.png)
 
-_圖片 2 的標題_
+_必應聊天_
 
 ## 安裝
 
