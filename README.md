@@ -52,3 +52,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributions
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## Support
+
+ [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)   
+ [![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
