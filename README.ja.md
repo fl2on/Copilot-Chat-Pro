@@ -1,4 +1,4 @@
-# Copilot Chat Pro™
+# コパイロット チャット プロ™
 
 ![image](https://user-images.githubusercontent.com/69091361/297645227-67e62dd6-9322-4622-aa35-f7624fdf8698.png)
 
@@ -45,7 +45,7 @@ Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げま
 
 ## 問題
 
-問題が発生したり、提案がある場合は、[問題を開く](https://github.com/qzxtu/copilot-chat-pro/issues)。
+If you encounter any issues or have suggestions, please [問題を開く](https://github.com/qzxtu/copilot-chat-pro/issues)。
 
 ## ライセンス
 
@@ -54,3 +54,8 @@ Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げま
 ## 貢献
 
 貢献は大歓迎です!リポジトリをフォークし、変更を加えたプル リクエストを作成してください。
+
+## サポート
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
+[![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
