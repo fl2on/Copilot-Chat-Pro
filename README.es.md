@@ -49,7 +49,7 @@ Si encuentra algún problema o tiene sugerencias, por favor[abrir un problema](h
 
 ## Licencia
 
-Este proyecto tiene la licencia MIT (consulte la[LICENCIA](LICENSE)archivo para más detalles.
+Este proyecto tiene la licencia Apache 2.0; consulte la[LICENCIA](LICENSE)archivo para más detalles.
 
 ## Contribuciones
 
