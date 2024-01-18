@@ -15,15 +15,15 @@
 
 ![Screenshot 1](https://user-images.githubusercontent.com/69091361/297644441-b17ea2d1-94c4-4543-92fd-d094bb8187c6.png)
 
-_Légende de l'image 1_
+_Copilote_
 
-![Screenshot 2](https://user-images.githubusercontent.com/69091361/297644441-b17ea2d1-94c4-4543-92fd-d094bb8187c6.png)
+![Screenshot 2](https://user-images.githubusercontent.com/69091361/297644588-1b3c7295-c6b2-46f9-9999-a99c95aad580.png)
 
-_Légende de l'image 2_
+_Chat Bing_
 
 ## Installation
 
-1.  Go to the [page de sortie](https://github.com/qzxtu/Copilot-Chat-Pro/releases)et téléchargez la dernière version.
+1.  Allez au[page de sortie](https://github.com/qzxtu/Copilot-Chat-Pro/releases)et téléchargez la dernière version.
 2.  Décompressez le fichier zip téléchargé.
 3.  Ouvrez votre navigateur et accédez à :
     -   **Chrome:**`chrome://extensions/`
