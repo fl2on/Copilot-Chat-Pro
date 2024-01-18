@@ -35,13 +35,13 @@ _圖片 2 的標題_
 
 1.  開啟 Bing 或 Copilot 網站。
 2.  聊天時無需擔心字元限制。
-3.  好好享受！
+3.  Enjoy It!
 
 ## 致謝
 
 該項目是出於更新以下項目的需要而創建的：[必應聊天專業版](https://github.com/blueagler/Bing-Chat-Pro)。後者為 Copilot Chat Pro™ 的開發提供了靈感。
 
-特別感謝 Bing Chat Pro 的原創者，[布勞艾格勒](https://github.com/blueagler)，以表彰他們對社區的貢獻。
+特別感謝 Bing Chat Pro 的原創者，[布勞艾格勒](https://github.com/blueagler)，表彰他們對社區的貢獻。
 
 ## 問題
 
@@ -54,3 +54,8 @@ _圖片 2 的標題_
 ## 貢獻
 
 歡迎貢獻！請分叉儲存庫並使用您的變更建立拉取請求。
+
+## 支援
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
+[![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
