@@ -29,7 +29,7 @@ _Bildunterschrift für Bild 2_
     -   **Chrom:**`chrome://extensions/`
     -   **Rand:**`edge://extensions/`
 4.  Aktivieren Sie oben rechts den „Entwicklermodus“.
-5.  Klicken Sie auf „Entpackt laden“ und wählen Sie den dekomprimierten Ordner aus Schritt 2 aus.
+5.  Click on "Load unpacked" and select the decompressed folder from step 2.
 
 ## Verwendung
 
@@ -54,3 +54,8 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe[LIZENZ](LICENSE)Ein
 ## Beiträge
 
 Beiträge sind willkommen! Bitte forken Sie das Repository und erstellen Sie eine Pull-Anfrage mit Ihren Änderungen.
+
+## Unterstützung
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
+[![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
