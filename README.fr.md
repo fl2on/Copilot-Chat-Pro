@@ -20,12 +20,14 @@ _Copilote_
 
 ![Screenshot 2](https://user-images.githubusercontent.com/69091361/297644588-1b3c7295-c6b2-46f9-9999-a99c95aad580.png)
 
-_Chat Bing_
+_Bing Chat_
 
 ## Installation
 
+**Pour le bureau :**
+
 1.  Allez au[page de sortie](https://github.com/qzxtu/Copilot-Chat-Pro/releases)et téléchargez la dernière version.
-2.  Décompressez le fichier zip téléchargé.
+2.  Decompress the downloaded zip file.
 3.  Ouvrez votre navigateur et accédez à :
     -   **Chrome:**`chrome://extensions/`
     -   **Bord:**`edge://extensions/`
@@ -45,7 +47,7 @@ _Chat Bing_
 
 ## Remerciements
 
-Ce projet a été créé suite à la nécessité de mettre à jour le projet suivant :[Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro). The latter served as inspiration for the development of Copilot Chat Pro™.
+Ce projet a été créé suite à la nécessité de mettre à jour le projet suivant :[Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro). Ce dernier a servi d’inspiration pour le développement de Copilot Chat Pro™.
 
 Un merci spécial au créateur original de Bing Chat Pro,[Aigle bleu](https://github.com/blueagler), pour leur contribution à la communauté.
 
