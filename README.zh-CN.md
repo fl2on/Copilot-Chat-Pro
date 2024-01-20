@@ -36,10 +36,10 @@ _必应聊天_
 
 **对于安卓：**
 
-1.  下载适用于 Android 的 Copilot Chat Pro™，从[发布页面](https://github.com/qzxtu/Copilot-Chat-Pro/release).
+1.  下载适用于 Android 的 Copilot Chat Pro™，从[发布页面](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
 2.  按照屏幕上的说明安装应用程序。
 
-## 用法
+## Usage
 
 1.  打开 Bing 或 Copilot 网站。
 2.  聊天时无需担心字符限制。
@@ -47,7 +47,7 @@ _必应聊天_
 
 ## 致谢
 
-该项目是出于更新以下项目的需要而创建的：[Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro)。后者为 Copilot Chat Pro™ 的开发提供了灵感。
+该项目是出于更新以下项目的需要而创建的：[必应聊天专业版](https://github.com/blueagler/Bing-Chat-Pro). The latter served as inspiration for the development of Copilot Chat Pro™.
 
 特别感谢 Bing Chat Pro 的原创者，[布劳艾格勒](https://github.com/blueagler)，表彰他们对社区的贡献。
 
