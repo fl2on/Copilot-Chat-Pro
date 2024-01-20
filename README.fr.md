@@ -8,8 +8,9 @@
 
 ## Caractéristiques
 
--   Remove character limit in chatboxes. (4000 -> ∞)
+-   Supprimez la limite de caractères dans les boîtes de discussion. (4000 -> ∞)
 -   Prise en charge de Bing et Copilot.
+-   Disponible sur Android avec Copilot Chat Pro™ pour Android.
 
 ## Captures d'écran
 
@@ -31,15 +32,20 @@ _Chat Bing_
 4.  Activez le « Mode développeur » en haut à droite.
 5.  Cliquez sur "Charger décompressé" et sélectionnez le dossier décompressé de l'étape 2.
 
+**Pour Android:**
+
+1.  Téléchargez Copilot Chat Pro™ pour Android à partir de[page de sortie](https://github.com/qzxtu/Copilot-Chat-Pro/release).
+2.  Suivez les instructions à l'écran pour installer l'application.
+
 ## Usage
 
 1.  Ouvrez le site Web Bing ou Copilot.
 2.  Discutez sans vous soucier des limites de caractères.
 3.  Profitez-en!
 
-## Acknowledgements
+## Remerciements
 
-Ce projet a été créé suite à la nécessité de mettre à jour le projet suivant :[Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro). Ce dernier a servi d’inspiration pour le développement de Copilot Chat Pro™.
+Ce projet a été créé suite à la nécessité de mettre à jour le projet suivant :[Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro). The latter served as inspiration for the development of Copilot Chat Pro™.
 
 Un merci spécial au créateur original de Bing Chat Pro,[Aigle bleu](https://github.com/blueagler), pour leur contribution à la communauté.
 
