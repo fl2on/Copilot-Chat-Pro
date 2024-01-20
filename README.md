@@ -9,7 +9,8 @@
 
 - Remove character limit in chatboxes. (4000 -> ∞)
 - Support for Bing and Copilot.
-
+- Available on Android with Copilot Chat Pro™ for Android.
+  
 ## Screenshots
 
 ![Screenshot 1](https://user-images.githubusercontent.com/69091361/297644441-b17ea2d1-94c4-4543-92fd-d094bb8187c6.png)
@@ -28,6 +29,10 @@
    - **Edge:** `edge://extensions/`
 4. Enable "Developer mode" in the top right.
 5. Click on "Load unpacked" and select the decompressed folder from step 2.
+
+**For Android:**
+1. Download Copilot Chat Pro™ for Android from [release page](https://github.com/qzxtu/Copilot-Chat-Pro/release).
+2. Follow the on-screen instructions to install the app.
 
 ## Usage
 
