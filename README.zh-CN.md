@@ -12,7 +12,7 @@
 -   支持 Bing 和 Copilot。
 -   可通过 Android 版 Copilot Chat Pro™ 在 Android 上使用。
 
-## Screenshots
+## 截图
 
 ![Screenshot 1](https://user-images.githubusercontent.com/69091361/297644441-b17ea2d1-94c4-4543-92fd-d094bb8187c6.png)
 
@@ -23,6 +23,8 @@ _副驾驶_
 _必应聊天_
 
 ## 安装
+
+**对于桌面：**
 
 1.  前往[发布页面](https://github.com/qzxtu/Copilot-Chat-Pro/releases)并下载最新版本。
 2.  解压下载的 zip 文件。
@@ -45,7 +47,7 @@ _必应聊天_
 
 ## 致谢
 
-该项目是出于更新以下项目的需要而创建的：[必应聊天专业版](https://github.com/blueagler/Bing-Chat-Pro)。后者为 Copilot Chat Pro™ 的开发提供了灵感。
+该项目是出于更新以下项目的需要而创建的：[Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro)。后者为 Copilot Chat Pro™ 的开发提供了灵感。
 
 特别感谢 Bing Chat Pro 的原创者，[布劳艾格勒](https://github.com/blueagler)，表彰他们对社区的贡献。
 
