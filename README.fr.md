@@ -8,18 +8,18 @@
 
 ## Caractéristiques
 
--   Supprimez la limite de caractères dans les boîtes de discussion. (4000 -> ∞)
+-   Remove character limit in chatboxes. (4000 -> ∞)
 -   Prise en charge de Bing et Copilot.
 
 ## Captures d'écran
 
 ![Screenshot 1](https://user-images.githubusercontent.com/69091361/297644441-b17ea2d1-94c4-4543-92fd-d094bb8187c6.png)
 
-_Copilot_
+_Copilote_
 
 ![Screenshot 2](https://user-images.githubusercontent.com/69091361/297644588-1b3c7295-c6b2-46f9-9999-a99c95aad580.png)
 
-_Bing Chat_
+_Chat Bing_
 
 ## Installation
 
@@ -37,7 +37,7 @@ _Bing Chat_
 2.  Discutez sans vous soucier des limites de caractères.
 3.  Profitez-en!
 
-## Remerciements
+## Acknowledgements
 
 Ce projet a été créé suite à la nécessité de mettre à jour le projet suivant :[Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro). Ce dernier a servi d’inspiration pour le développement de Copilot Chat Pro™.
 
