@@ -36,8 +36,8 @@ _बिंग चैट_
 
 **एंड्रॉयड के लिए:**
 
-1.  Android के लिए Copilot Chat Pro™ डाउनलोड करें[रिलीज पेज](https://github.com/qzxtu/Copilot-Chat-Pro/release).
-2.  ऐप इंस्टॉल करने के लिए ऑन-स्क्रीन निर्देशों का पालन करें।
+1.  Android के लिए Copilot Chat Pro™ डाउनलोड करें[रिलीज पेज](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
+2.  Follow the on-screen instructions to install the app.
 
 ## प्रयोग
 
@@ -47,7 +47,7 @@ _बिंग चैट_
 
 ## स्वीकृतियाँ
 
-यह प्रोजेक्ट निम्नलिखित प्रोजेक्ट को अद्यतन करने की आवश्यकता से बनाया गया था:[बिंग चैट प्रो](https://github.com/blueagler/Bing-Chat-Pro). The latter served as inspiration for the development of Copilot Chat Pro™.
+यह प्रोजेक्ट निम्नलिखित प्रोजेक्ट को अद्यतन करने की आवश्यकता से बनाया गया था:[बिंग चैट प्रो](https://github.com/blueagler/Bing-Chat-Pro). बाद वाले ने कोपायलट चैट प्रो™ के विकास के लिए प्रेरणा का काम किया।
 
 बिंग चैट प्रो के मूल निर्माता को विशेष धन्यवाद,[ब्लूएग्लर](https://github.com/blueagler), समुदाय में उनके योगदान के लिए।
 
