@@ -24,12 +24,14 @@ _Bing-Chat_
 
 ## Installation
 
+**Für Desktop:**
+
 1.  Gehe zum[Release-Seite](https://github.com/qzxtu/Copilot-Chat-Pro/releases)und laden Sie die neueste Version herunter.
 2.  Dekomprimieren Sie die heruntergeladene ZIP-Datei.
 3.  Öffnen Sie Ihren Browser und navigieren Sie zu:
     -   **Chrom:**`chrome://extensions/`
     -   **Rand:**`edge://extensions/`
-4.  Enable "Developer mode" in the top right.
+4.  Aktivieren Sie oben rechts den „Entwicklermodus“.
 5.  Klicken Sie auf „Entpackt laden“ und wählen Sie den dekomprimierten Ordner aus Schritt 2 aus.
 
 **Für Android:**
@@ -41,7 +43,7 @@ _Bing-Chat_
 
 1.  Öffnen Sie die Bing- oder Copilot-Website.
 2.  Chatten Sie, ohne sich Gedanken über Zeichenbeschränkungen machen zu müssen.
-3.  Genießen Sie es!
+3.  Enjoy It!
 
 ## Danksagungen
 
