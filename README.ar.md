@@ -36,14 +36,14 @@ _دردشة بينج_
 
 **لأجهزة الأندرويد:**
 
-1.  قم بتنزيل برنامج Copilot Chat Pro™ لنظام Android من[صفحة الإصدار](https://github.com/qzxtu/Copilot-Chat-Pro/release).
+1.  قم بتنزيل برنامج Copilot Chat Pro™ لنظام Android من[صفحة الإصدار](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
 2.  اتبع التعليمات التي تظهر على الشاشة لتثبيت التطبيق.
 
 ## الاستخدام
 
 1.  افتح موقع Bing أو Copilot.
 2.  قم بالدردشة دون القلق بشأن عدد الأحرف المسموح به.
-3.  Enjoy It!
+3.  استمتع بها!
 
 ## شكر وتقدير
 
