@@ -10,8 +10,9 @@
 
 -   删除聊天框中的字符限制。 （4000 -> 无穷大）
 -   支持 Bing 和 Copilot。
+-   可通过 Android 版 Copilot Chat Pro™ 在 Android 上使用。
 
-## 截图
+## Screenshots
 
 ![Screenshot 1](https://user-images.githubusercontent.com/69091361/297644441-b17ea2d1-94c4-4543-92fd-d094bb8187c6.png)
 
@@ -30,6 +31,11 @@ _必应聊天_
     -   **边缘：**`edge://extensions/`
 4.  启用右上角的“开发者模式”。
 5.  单击“加载已解压的文件”并选择步骤 2 中解压的文件夹。
+
+**对于安卓：**
+
+1.  下载适用于 Android 的 Copilot Chat Pro™，从[发布页面](https://github.com/qzxtu/Copilot-Chat-Pro/release).
+2.  按照屏幕上的说明安装应用程序。
 
 ## 用法
 
