@@ -26,7 +26,7 @@ _必應聊天_
 
 **對於桌面：**
 
-1.  前往[發布頁面](https://github.com/qzxtu/Copilot-Chat-Pro/releases)並下載最新版本。
+1.  前往[發布頁面](https://github.com/qzxtu/Copilot-Chat-Pro/releases) and download the latest version.
 2.  解壓縮下載的 zip 檔案。
 3.  打開瀏覽器並導航至：
     -   **鉻合金：**`chrome://extensions/`
@@ -36,7 +36,7 @@ _必應聊天_
 
 **對於安卓：**
 
-1.  下載適用於 Android 的 Copilot Chat Pro™，從[發布頁面](https://github.com/qzxtu/Copilot-Chat-Pro/release).
+1.  下載適用於 Android 的 Copilot Chat Pro™，從[發布頁面](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
 2.  請按照螢幕上的指示安裝應用程式。
 
 ## 用法
