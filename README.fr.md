@@ -20,14 +20,14 @@ _Copilote_
 
 ![Screenshot 2](https://user-images.githubusercontent.com/69091361/297644588-1b3c7295-c6b2-46f9-9999-a99c95aad580.png)
 
-_Bing Chat_
+_Chat Bing_
 
 ## Installation
 
 **Pour le bureau :**
 
 1.  Allez au[page de sortie](https://github.com/qzxtu/Copilot-Chat-Pro/releases)et téléchargez la dernière version.
-2.  Decompress the downloaded zip file.
+2.  Décompressez le fichier zip téléchargé.
 3.  Ouvrez votre navigateur et accédez à :
     -   **Chrome:**`chrome://extensions/`
     -   **Bord:**`edge://extensions/`
@@ -36,7 +36,7 @@ _Bing Chat_
 
 **Pour Android:**
 
-1.  Téléchargez Copilot Chat Pro™ pour Android à partir de[page de sortie](https://github.com/qzxtu/Copilot-Chat-Pro/release).
+1.  Téléchargez Copilot Chat Pro™ pour Android à partir de[page de sortie](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
 2.  Suivez les instructions à l'écran pour installer l'application.
 
 ## Usage
