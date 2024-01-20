@@ -10,6 +10,7 @@
 
 -   Eliminar el límite de caracteres en los cuadros de chat. (4000 -> ∞)
 -   Soporte para Bing y Copilot.
+-   Available on Android with Copilot Chat Pro™ for Android.
 
 ## Capturas de pantalla
 
@@ -23,6 +24,8 @@ _Chat de Bing_
 
 ## Instalación
 
+**Para escritorio:**
+
 1.  Ve a la[página de lanzamiento](https://github.com/qzxtu/Copilot-Chat-Pro/releases)y descargue la última versión.
 2.  Descomprime el archivo zip descargado.
 3.  Abra su navegador y navegue hasta:
@@ -30,6 +33,11 @@ _Chat de Bing_
     -   **Borde:**`edge://extensions/`
 4.  Habilite el "Modo de desarrollador" en la parte superior derecha.
 5.  Haga clic en "Cargar descomprimido" y seleccione la carpeta descomprimida del paso 2.
+
+**Para Android:**
+
+1.  Descargue Copilot Chat Pro™ para Android desde[página de lanzamiento](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
+2.  Siga las instrucciones en pantalla para instalar la aplicación.
 
 ## Uso
 
@@ -53,7 +61,7 @@ Este proyecto tiene la licencia Apache 2.0; consulte la[LICENCIA](LICENSE)archiv
 
 ## Contribuciones
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+¡Las contribuciones son bienvenidas! Bifurque el repositorio y cree una solicitud de extracción con sus cambios.
 
 ## Apoyo
 
