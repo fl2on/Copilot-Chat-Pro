@@ -10,6 +10,7 @@
 
 -   チャットボックスの文字数制限を削除します。 (4000 -> ∞)
 -   Bing と Copilot のサポート。
+-   Android では Copilot Chat Pro™ for Android を使用して利用できます。
 
 ## スクリーンショット
 
@@ -31,25 +32,30 @@ _Bing チャット_
 4.  右上の「開発者モード」を有効にします。
 5.  「解凍してロード」をクリックし、手順 2 で解凍したフォルダーを選択します。
 
+**アンドロイド用：**
+
+1.  Android 用 Copilot Chat Pro™ を次からダウンロードします。[リリースページ](https://github.com/qzxtu/Copilot-Chat-Pro/release)。
+2.  画面上の指示に従ってアプリをインストールします。
+
 ## 使用法
 
 1.  Bing または Copilot の Web サイトを開きます。
-2.  Chat without worrying about character limits.
+2.  文字数制限を気にせずチャットできます。
 3.  楽しめ！
 
 ## 謝辞
 
-このプロジェクトは、次のプロジェクトを更新する必要があるために作成されました。[Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro)。後者は、Copilot Chat Pro™ 開発のインスピレーションとなりました。
+このプロジェクトは、次のプロジェクトを更新する必要があるために作成されました。[Bing チャット プロ](https://github.com/blueagler/Bing-Chat-Pro)。後者は、Copilot Chat Pro™ 開発のインスピレーションとなりました。
 
 Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げます。[ブルーアグラー](https://github.com/blueagler)、コミュニティへの貢献に対して。
 
-## Issues
+## 問題
 
 問題が発生したり、提案がある場合は、[問題を開く](https://github.com/qzxtu/copilot-chat-pro/issues)。
 
 ## ライセンス
 
-このプロジェクトは Apache 2.0 ライセンスに基づいてライセンスされています - を参照してください。[ライセンス](LICENSE)詳細については、ファイルを参照してください。
+This project is licensed under the Apache 2.0 License - see the [ライセンス](LICENSE)詳細については、ファイルを参照してください。
 
 ## 貢献
 
