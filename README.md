@@ -22,6 +22,7 @@
 *Bing Chat*
 
 ## Installation
+**For Desktop:**
 1. Go to the [release page](https://github.com/qzxtu/Copilot-Chat-Pro/releases) and download the latest version.
 2. Decompress the downloaded zip file.
 3. Open your browser and navigate to:
