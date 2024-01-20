@@ -24,6 +24,8 @@ _必應聊天_
 
 ## 安裝
 
+**對於桌面：**
+
 1.  前往[發布頁面](https://github.com/qzxtu/Copilot-Chat-Pro/releases)並下載最新版本。
 2.  解壓縮下載的 zip 檔案。
 3.  打開瀏覽器並導航至：
