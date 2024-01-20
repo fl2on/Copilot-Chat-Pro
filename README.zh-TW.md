@@ -37,7 +37,7 @@ _必應聊天_
 2.  聊天時無需擔心字元限制。
 3.  好好享受！
 
-## Acknowledgements
+## 致謝
 
 該項目是出於更新以下項目的需要而創建的：[必應聊天專業版](https://github.com/blueagler/Bing-Chat-Pro)。後者為 Copilot Chat Pro™ 的開發提供了靈感。
 
