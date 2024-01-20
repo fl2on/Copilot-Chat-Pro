@@ -53,7 +53,7 @@ Este proyecto tiene la licencia Apache 2.0; consulte la[LICENCIA](LICENSE)archiv
 
 ## Contribuciones
 
-¡Las contribuciones son bienvenidas! Bifurque el repositorio y cree una solicitud de extracción con sus cambios.
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## Apoyo
 
