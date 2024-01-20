@@ -36,7 +36,7 @@ _Bing チャット_
 
 **アンドロイド用：**
 
-1.  Android 用 Copilot Chat Pro™ を次からダウンロードします。[リリースページ](https://github.com/qzxtu/Copilot-Chat-Pro/release)。
+1.  Android 用 Copilot Chat Pro™ を次からダウンロードします。[リリースページ](https://github.com/qzxtu/Copilot-Chat-Pro/releases)。
 2.  画面上の指示に従ってアプリをインストールします。
 
 ## 使用法
@@ -57,9 +57,9 @@ Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げま
 
 ## ライセンス
 
-このプロジェクトは、Apache 2.0 ライセンスに基づいてライセンスされています - を参照してください。[ライセンス](LICENSE)詳細については、ファイルを参照してください。
+このプロジェクトは Apache 2.0 ライセンスに基づいてライセンスされています - を参照してください。[ライセンス](LICENSE)詳細については、ファイルを参照してください。
 
-## Contributions
+## 貢献
 
 貢献は大歓迎です!リポジトリをフォークし、変更を加えたプル リクエストを作成してください。
 
