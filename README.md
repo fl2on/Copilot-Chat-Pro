@@ -32,7 +32,7 @@
 5. Click on "Load unpacked" and select the decompressed folder from step 2.
 
 **For Android:**
-1. Download Copilot Chat Pro™ for Android from [release page](https://github.com/qzxtu/Copilot-Chat-Pro/release).
+1. Download Copilot Chat Pro™ for Android from [release page](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
 2. Follow the on-screen instructions to install the app.
 
 ## Usage
