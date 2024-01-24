@@ -8,9 +8,11 @@
 
 ## 特徴
 
--   チャットボックスの文字数制限を削除します。 (4000 -> ∞)
--   Bing と Copilot のサポート。
--   Android では Copilot Chat Pro™ for Android を使用して利用できます。
+-   ✨ 無制限のチャットボックス: 文字数制限 (4000 -> ∞) から解放されます。境界線なく表現しましょう！
+
+-   🔍 Bing Chat と Copilot のサポート。インテリジェントな検索と共同コーディングでワークフローを強化します。
+
+-   📱 Android のエンパワーメント: 外出先でも会話を楽しめます! Copilot Chat Pro™ が Android で利用できるようになり、いつでもどこでも接続を維持できます。
 
 ## スクリーンショット
 
@@ -49,7 +51,7 @@ _Bing チャット_
 
 このプロジェクトは、次のプロジェクトを更新する必要があるために作成されました。[Bing チャット プロ](https://github.com/blueagler/Bing-Chat-Pro)。後者は、Copilot Chat Pro™ 開発のインスピレーションとなりました。
 
-Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げます。[ブルーアグラー](https://github.com/blueagler)、コミュニティへの貢献に対して。
+Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げます。[blueagler](https://github.com/blueagler)、コミュニティへの貢献に対して。
 
 ## 問題
 
