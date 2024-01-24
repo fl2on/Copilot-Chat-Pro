@@ -8,9 +8,11 @@
 
 ## Merkmale
 
--   Zeichenbeschränkung in Chatboxen entfernen. (4000 -> ∞)
--   Unterstützung für Bing und Copilot.
--   Verfügbar für Android mit Copilot Chat Pro™ für Android.
+-   ✨ Unbegrenzte Chatboxen: Befreien Sie sich von Zeichenbeschränkungen (4000 -> ∞). Express ohne Grenzen!
+
+-   🔍 Unterstützung für Bing Chat und Copilot. Erweitern Sie Ihren Workflow mit intelligenter Suche und kollaborativer Codierung.
+
+-   📱 Android Empowerment: Führen Sie die Unterhaltung auch unterwegs! Copilot Chat Pro™ ist jetzt für Android verfügbar und stellt sicher, dass Sie jederzeit und überall in Verbindung bleiben.
 
 ## Screenshots
 
@@ -43,7 +45,7 @@ _Bing-Chat_
 
 1.  Öffnen Sie die Bing- oder Copilot-Website.
 2.  Chatten Sie, ohne sich Gedanken über Zeichenbeschränkungen machen zu müssen.
-3.  Enjoy It!
+3.  Genießen Sie es!
 
 ## Danksagungen
 
@@ -61,7 +63,7 @@ Dieses Projekt ist unter der Apache 2.0-Lizenz lizenziert – siehe[LIZENZ](LICE
 
 ## Beiträge
 
-Beiträge sind willkommen! Bitte teilen Sie das Repository auf und erstellen Sie eine Pull-Anfrage mit Ihren Änderungen.
+Beiträge sind willkommen! Bitte forken Sie das Repository und erstellen Sie eine Pull-Anfrage mit Ihren Änderungen.
 
 ## Unterstützung
 
