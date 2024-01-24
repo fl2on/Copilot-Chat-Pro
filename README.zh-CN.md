@@ -8,9 +8,11 @@
 
 ## 特征
 
--   删除聊天框中的字符限制。 （4000 -> 无穷大）
--   支持 Bing 和 Copilot。
--   可通过 Android 版 Copilot Chat Pro™ 在 Android 上使用。
+-   ✨ 无限聊天框：摆脱字符限制（4000 -> ∞）。表达无界限！
+
+-   🔍 支持 Bing Chat 和 Copilot。通过智能搜索和协作编码扩大您的工作流程。
+
+-   📱 Android 授权：随时随地进行对话！ Copilot Chat Pro™ 现已在 Android 上推出，确保您随时随地保持联系。
 
 ## 截图
 
@@ -39,7 +41,7 @@ _必应聊天_
 1.  下载适用于 Android 的 Copilot Chat Pro™，从[发布页面](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
 2.  按照屏幕上的说明安装应用程序。
 
-## Usage
+## 用法
 
 1.  打开 Bing 或 Copilot 网站。
 2.  聊天时无需担心字符限制。
@@ -47,7 +49,7 @@ _必应聊天_
 
 ## 致谢
 
-该项目是出于更新以下项目的需要而创建的：[必应聊天专业版](https://github.com/blueagler/Bing-Chat-Pro). The latter served as inspiration for the development of Copilot Chat Pro™.
+该项目是出于更新以下项目的需要而创建的：[必应聊天专业版](https://github.com/blueagler/Bing-Chat-Pro)。后者为 Copilot Chat Pro™ 的开发提供了灵感。
 
 特别感谢 Bing Chat Pro 的原创者，[布劳艾格勒](https://github.com/blueagler)，表彰他们对社区的贡献。
 
