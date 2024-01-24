@@ -8,9 +8,11 @@
 
 ## Características
 
--   Eliminar el límite de caracteres en los cuadros de chat. (4000 -> ∞)
--   Soporte para Bing y Copilot.
--   Available on Android with Copilot Chat Pro™ for Android.
+-   ✨ Chatboxes ilimitados: Libérate de las restricciones de personajes (4000 -> ∞). ¡Exprésate sin límites!
+
+-   🔍 Soporte para Bing Chat y Copilot. Amplifique su flujo de trabajo con búsqueda inteligente y codificación colaborativa.
+
+-   📱 Empoderamiento de Android: ¡lleva la conversación mientras viajas! Copilot Chat Pro™ ahora está disponible en Android, lo que garantiza que permanezca conectado en cualquier momento y en cualquier lugar.
 
 ## Capturas de pantalla
 
