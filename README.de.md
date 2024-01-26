@@ -24,6 +24,8 @@ _Kopilot_
 
 _Bing-Chat_
 
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
+
 ## Installation
 
 **Für Desktop:**
@@ -41,7 +43,7 @@ _Bing-Chat_
 1.  Laden Sie Copilot Chat Pro™ für Android herunter von[Release-Seite](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
 2.  Befolgen Sie die Anweisungen auf dem Bildschirm, um die App zu installieren.
 
-## Verwendung
+## Usage
 
 1.  Öffnen Sie die Bing- oder Copilot-Website.
 2.  Chatten Sie, ohne sich Gedanken über Zeichenbeschränkungen machen zu müssen.
@@ -65,7 +67,7 @@ Dieses Projekt ist unter der Apache 2.0-Lizenz lizenziert – siehe[LIZENZ](LICE
 
 Beiträge sind willkommen! Bitte forken Sie das Repository und erstellen Sie eine Pull-Anfrage mit Ihren Änderungen.
 
-## Unterstützung
+## Support
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
 [![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
