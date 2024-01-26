@@ -23,6 +23,9 @@
 
 *Bing Chat*
 
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
+
+
 ## Installation
 **For Desktop:**
 1. Go to the [release page](https://github.com/qzxtu/Copilot-Chat-Pro/releases) and download the latest version.
