@@ -24,6 +24,8 @@ _Copiloto_
 
 _Chat de Bing_
 
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
+
 ## Instalación
 
 **Para escritorio:**
