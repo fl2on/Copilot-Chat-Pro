@@ -24,6 +24,8 @@ _副駕駛_
 
 _必應聊天_
 
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
+
 ## 安裝
 
 **對於桌面：**
@@ -33,7 +35,7 @@ _必應聊天_
 3.  打開瀏覽器並導航至：
     -   **鉻合金：**`chrome://extensions/`
     -   **邊緣：**`edge://extensions/`
-4.  Enable "Developer mode" in the top right.
+4.  啟用右上角的「開發者模式」。
 5.  點擊「載入已解壓縮的檔案」並選擇步驟 2 中解壓縮的資料夾。
 
 **對於安卓：**
@@ -57,7 +59,7 @@ _必應聊天_
 
 如果您遇到任何問題或有建議，請[打開一個問題](https://github.com/qzxtu/copilot-chat-pro/issues).
 
-## License
+## 執照
 
 此專案根據 Apache 2.0 許可證獲得許可 - 請參閱[執照](LICENSE)文件以獲取詳細資訊。
 
