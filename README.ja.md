@@ -24,6 +24,8 @@ _副操縦士_
 
 _Bing チャット_
 
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
+
 ## インストール
 
 **デスクトップの場合:**
@@ -51,7 +53,7 @@ _Bing チャット_
 
 このプロジェクトは、次のプロジェクトを更新する必要があるために作成されました。[Bing チャット プロ](https://github.com/blueagler/Bing-Chat-Pro)。後者は、Copilot Chat Pro™ 開発のインスピレーションとなりました。
 
-Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げます。[blueagler](https://github.com/blueagler)、コミュニティへの貢献に対して。
+Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げます。[ブルーアグラー](https://github.com/blueagler)、コミュニティへの貢献に対して。
 
 ## 問題
 
