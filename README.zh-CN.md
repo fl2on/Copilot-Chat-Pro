@@ -24,6 +24,8 @@ _副驾驶_
 
 _必应聊天_
 
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
+
 ## 安装
 
 **对于桌面：**
@@ -55,7 +57,7 @@ _必应聊天_
 
 ## 问题
 
-如果您遇到任何问题或有建议，请[打开一个问题](https://github.com/qzxtu/copilot-chat-pro/issues).
+如果您遇到任何问题或有建议，请[open an issue](https://github.com/qzxtu/copilot-chat-pro/issues).
 
 ## 执照
 
