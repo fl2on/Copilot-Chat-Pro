@@ -11,9 +11,12 @@
    "permissions":[],
    "content_scripts": [
     {
-      "matches": ["<all_urls>"],
-      "js": ["unlimited.js"],
-      "css": []
+        "matches": [
+            "*://www.bing.com/search*",
+            "https://copilot.microsoft.com/*"
+        ],
+        "js": ["unlimited.js"],
+        "css": []
     }
   ],
   "host_permissions": ["https://*/*"],
