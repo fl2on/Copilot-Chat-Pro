@@ -10,7 +10,7 @@
 
 -   ✨ Chatbox illimitées : libérez-vous des restrictions de caractères (4000 -> ∞). Exprimez-vous sans frontières !
 
--   🔍 Support for Bing Chat and Copilot. Amplify your workflow with intelligent search and collaborative coding.
+-   🔍 Prise en charge de Bing Chat et Copilot. Amplifiez votre flux de travail grâce à la recherche intelligente et au codage collaboratif.
 
 -   📱 Autonomisation Android : participez à la conversation en déplacement ! Copilot Chat Pro™ est désormais disponible sur Android, vous garantissant de rester connecté à tout moment et en tout lieu.
 
@@ -35,7 +35,7 @@ _Chat Bing_
 3.  Ouvrez votre navigateur et accédez à :
     -   **Chrome:**`chrome://extensions/`
     -   **Bord:**`edge://extensions/`
-4.  Enable "Developer mode" in the top right.
+4.  Activez le « Mode développeur » en haut à droite.
 5.  Cliquez sur "Charger décompressé" et sélectionnez le dossier décompressé de l'étape 2.
 
 **Pour Android:**
