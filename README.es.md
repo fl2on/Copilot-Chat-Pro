@@ -43,7 +43,7 @@ _Chat de Bing_
 1.  Descargue Copilot Chat Pro™ para Android desde[página de lanzamiento](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
 2.  Siga las instrucciones en pantalla para instalar la aplicación.
 
-## Uso
+## Usage
 
 1.  Abra el sitio web Bing o Copilot.
 2.  Chatea sin preocuparte por los límites de caracteres.
