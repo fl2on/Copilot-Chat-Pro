@@ -53,7 +53,7 @@ _必应聊天_
 
 该项目是出于更新以下项目的需要而创建的：[必应聊天专业版](https://github.com/blueagler/Bing-Chat-Pro)。后者为 Copilot Chat Pro™ 的开发提供了灵感。
 
-特别感谢 Bing Chat Pro 的原创者，[布劳艾格勒](https://github.com/blueagler)，以表彰他们对社区的贡献。
+特别感谢 Bing Chat Pro 的原创者，[布劳艾格勒](https://github.com/blueagler)，表彰他们对社区的贡献。
 
 ## 问题
 
