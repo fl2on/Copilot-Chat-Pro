@@ -65,7 +65,7 @@ Dieses Projekt ist unter der Apache 2.0-Lizenz lizenziert – siehe[LIZENZ](LICE
 
 ## Beiträge
 
-Beiträge sind willkommen! Bitte forken Sie das Repository und erstellen Sie eine Pull-Anfrage mit Ihren Änderungen.
+Beiträge sind willkommen! Bitte teilen Sie das Repository auf und erstellen Sie eine Pull-Anfrage mit Ihren Änderungen.
 
 ## Unterstützung
 
