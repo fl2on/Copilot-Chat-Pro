@@ -32,7 +32,7 @@ _Bing チャット_
 
 **デスクトップの場合:**
 
-1.  に行きます[リリースページ](https://github.com/qzxtu/Copilot-Chat-Pro/releases) and download the latest version.
+1.  に行きます[リリースページ](https://github.com/qzxtu/Copilot-Chat-Pro/releases)最新バージョンをダウンロードしてください。
 2.  ダウンロードしたzipファイルを解凍します。
 3.  ブラウザを開いて次の場所に移動します。
     -   **クロム：**`chrome://extensions/`
@@ -63,7 +63,7 @@ Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げま
 
 ## ライセンス
 
-このプロジェクトは Apache 2.0 ライセンスに基づいてライセンスされています - を参照してください。[ライセンス](LICENSE)詳細については、ファイルを参照してください。
+このプロジェクトは、Apache 2.0 ライセンスに基づいてライセンスされています - を参照してください。[ライセンス](LICENSE)詳細については、ファイルを参照してください。
 
 ## 貢献
 
