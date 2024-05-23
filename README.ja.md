@@ -26,11 +26,13 @@ _Bing チャット_
 
 ![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
 
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/151354d0-c04f-4051-a2be-b55a664ddae1)
+
 ## インストール
 
 **デスクトップの場合:**
 
-1.  に行きます[リリースページ](https://github.com/qzxtu/Copilot-Chat-Pro/releases)最新バージョンをダウンロードしてください。
+1.  に行きます[リリースページ](https://github.com/qzxtu/Copilot-Chat-Pro/releases) and download the latest version.
 2.  ダウンロードしたzipファイルを解凍します。
 3.  ブラウザを開いて次の場所に移動します。
     -   **クロム：**`chrome://extensions/`
@@ -61,11 +63,11 @@ Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げま
 
 ## ライセンス
 
-このプロジェクトは、Apache 2.0 ライセンスに基づいてライセンスされています - を参照してください。[ライセンス](LICENSE)詳細については、ファイルを参照してください。
+このプロジェクトは Apache 2.0 ライセンスに基づいてライセンスされています - を参照してください。[ライセンス](LICENSE)詳細については、ファイルを参照してください。
 
 ## 貢献
 
-貢献は大歓迎です!リポジトリをフォークし、変更を加えたプル リクエストを作成してください。
+貢献は大歓迎です！リポジトリをフォークし、変更を加えたプル リクエストを作成してください。
 
 ## サポート
 
