@@ -8,6 +8,20 @@
 
     async function removeCharLimit() {
         try {
+            const searchInput = document.querySelector("#sb_form_q");
+            if (searchInput) {
+                searchInput.removeAttribute("maxlength");
+            } else {
+                console.error("Entrada de búsqueda no encontrada.");
+            }
+
+            const elementToRemove = document.querySelector("#sb_chcounter_r");
+            if (elementToRemove) {
+                elementToRemove.remove();
+            } else {
+                console.warn("Elemento con ID 'sb_chcounter_r' no encontrado.");
+            }
+
             const serp = document.querySelector("#b_sydConvCont > cib-serp");
 
             if (!serp) {
@@ -54,10 +68,7 @@
         removeCharLimit();
     }
 
+    const interval = setInterval(initializeExtension, 3000);
     window.addEventListener("load", initializeExtension);
     window.addEventListener("popstate", initializeExtension);
-
-    setInterval(() => {
-        initializeExtension();
-    }, 3000);
 })();
