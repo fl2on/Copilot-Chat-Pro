@@ -26,6 +26,8 @@ _Chat de Bing_
 
 ![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
 
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/151354d0-c04f-4051-a2be-b55a664ddae1)
+
 ## Instalación
 
 **Para escritorio:**
@@ -59,7 +61,7 @@ Un agradecimiento especial al creador original de Bing Chat Pro,[águila azul](h
 
 Si encuentra algún problema o tiene sugerencias, por favor[abrir un problema](https://github.com/qzxtu/copilot-chat-pro/issues).
 
-## License
+## Licencia
 
 Este proyecto tiene la licencia Apache 2.0; consulte la[LICENCIA](LICENSE)archivo para más detalles.
 
