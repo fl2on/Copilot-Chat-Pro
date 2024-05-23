@@ -26,6 +26,8 @@ _必应聊天_
 
 ![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
 
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/151354d0-c04f-4051-a2be-b55a664ddae1)
+
 ## 安装
 
 **对于桌面：**
@@ -36,7 +38,7 @@ _必应聊天_
     -   **铬合金：**`chrome://extensions/`
     -   **边缘：**`edge://extensions/`
 4.  启用右上角的“开发者模式”。
-5.  单击“加载已解压的文件”并选择步骤 2 中解压的文件夹。
+5.  Click on "Load unpacked" and select the decompressed folder from step 2.
 
 **对于安卓：**
 
