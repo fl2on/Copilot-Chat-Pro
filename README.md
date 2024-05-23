@@ -25,6 +25,7 @@
 
 ![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
 
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/151354d0-c04f-4051-a2be-b55a664ddae1)
 
 ## Installation
 **For Desktop:**
