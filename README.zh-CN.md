@@ -38,7 +38,7 @@ _必应聊天_
     -   **铬合金：**`chrome://extensions/`
     -   **边缘：**`edge://extensions/`
 4.  启用右上角的“开发者模式”。
-5.  Click on "Load unpacked" and select the decompressed folder from step 2.
+5.  单击“加载已解压的文件”并选择步骤 2 中解压的文件夹。
 
 **对于安卓：**
 
