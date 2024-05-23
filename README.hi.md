@@ -53,7 +53,7 @@ _बिंग चैट_
 
 यह प्रोजेक्ट निम्नलिखित प्रोजेक्ट को अद्यतन करने की आवश्यकता से बनाया गया था:[बिंग चैट प्रो](https://github.com/blueagler/Bing-Chat-Pro). बाद वाले ने कोपायलट चैट प्रो™ के विकास के लिए प्रेरणा का काम किया।
 
-बिंग चैट प्रो के मूल निर्माता को विशेष धन्यवाद,[ब्लूएग्लर](https://github.com/blueagler), समुदाय में उनके योगदान के लिए।
+A special thank you to the original creator of Bing Chat Pro, [ब्लूएग्लर](https://github.com/blueagler), समुदाय में उनके योगदान के लिए।
 
 ## समस्याएँ
 
@@ -67,7 +67,7 @@ _बिंग चैट_
 
 योगदान का स्वागत है! कृपया रिपॉजिटरी को फोर्क करें और अपने परिवर्तनों के साथ एक पुल अनुरोध बनाएं।
 
-## सहायता
+## Support
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
 [![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
