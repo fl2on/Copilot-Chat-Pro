@@ -12,7 +12,7 @@
 
 -   🔍 Prise en charge de Bing Chat et Copilot. Amplifiez votre flux de travail grâce à la recherche intelligente et au codage collaboratif.
 
--   📱 Android Empowerment : participez à la conversation en déplacement ! Copilot Chat Pro™ est désormais disponible sur Android, vous garantissant de rester connecté à tout moment et en tout lieu.
+-   📱 Autonomisation Android : participez à la conversation en déplacement ! Copilot Chat Pro™ est désormais disponible sur Android, vous garantissant de rester connecté à tout moment et en tout lieu.
 
 ## Captures d'écran
 
@@ -25,6 +25,8 @@ _Copilote_
 _Chat Bing_
 
 ![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
+
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/151354d0-c04f-4051-a2be-b55a664ddae1)
 
 ## Installation
 
