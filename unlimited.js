@@ -9,42 +9,20 @@
     async function removeCharLimit() {
         try {
             const searchInput = document.querySelector("#sb_form_q");
-            if (searchInput) {
-                searchInput.removeAttribute("maxlength");
-            } else {
-                console.error("Entrada de búsqueda no encontrada.");
-            }
+            if (searchInput) searchInput.removeAttribute("maxlength");
 
-            const elementToRemove = document.querySelector("#sb_chcounter_r");
-            if (elementToRemove) {
-                elementToRemove.remove();
-            } else {
-                console.warn("Elemento con ID 'sb_chcounter_r' no encontrado.");
-            }
+            document.querySelector("#sb_chcounter_r")?.remove();
 
             const serp = document.querySelector("#b_sydConvCont > cib-serp");
+            if (!serp) throw new Error("Elemento cib-serp no encontrado.");
 
-            if (!serp) {
-                throw new Error("Elemento cib-serp no encontrado.");
-            }
+            const actionBarMain = serp.shadowRoot.querySelector("#cib-action-bar-main");
+            if (!actionBarMain) throw new Error("Elemento cib-action-bar-main no encontrado.");
 
-            const serpShadowRoot = serp.shadowRoot;
-            const actionBarMain = serpShadowRoot.querySelector("#cib-action-bar-main");
+            const textInput = actionBarMain.shadowRoot.querySelector("div > div.main-container > div > div.input-row > cib-text-input");
+            if (!textInput) throw new Error("Elemento cib-text-input no encontrado.");
 
-            if (!actionBarMain) {
-                throw new Error("Elemento cib-action-bar-main no encontrado.");
-            }
-
-            const actionBarMainShadowRoot = actionBarMain.shadowRoot;
-            const textInput = actionBarMainShadowRoot.querySelector("div > div.main-container > div > div.input-row > cib-text-input");
-
-            if (!textInput) {
-                throw new Error("Elemento cib-text-input no encontrado.");
-            }
-
-            const textInputShadowRoot = textInput.shadowRoot;
-            const textarea = textInputShadowRoot.querySelector("#searchbox");
-
+            const textarea = textInput.shadowRoot.querySelector("#searchbox");
             if (textarea) {
                 textarea.removeAttribute("maxlength");
                 textarea.setAttribute("aria-description", "∞");
@@ -52,23 +30,17 @@
                 throw new Error("Textarea con atributo 'maxlength' no encontrado.");
             }
 
-            const letterCounter = actionBarMainShadowRoot.querySelector("div > div.main-container > div > div.bottom-controls > div.bottom-right-controls > div.letter-counter");
+            const letterCounter = actionBarMain.shadowRoot.querySelector("div > div.main-container > div > div.bottom-controls > div.bottom-right-controls > div.letter-counter");
+            if (letterCounter) letterCounter.textContent = "∞";
 
-            if (letterCounter) {
-                letterCounter.textContent = "∞";
-            } else {
-                console.warn("Elemento .letter-counter no encontrado.");
-            }
         } catch (error) {
             console.error("Error:", error.message);
         }
     }
 
-    async function initializeExtension() {
-        removeCharLimit();
-    }
+    const initializeExtension = () => removeCharLimit();
 
-    const interval = setInterval(initializeExtension, 3000);
+    setInterval(initializeExtension, 3000);
     window.addEventListener("load", initializeExtension);
     window.addEventListener("popstate", initializeExtension);
 })();
