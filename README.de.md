@@ -2,9 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/69091361/297645227-67e62dd6-9322-4622-aa35-f7624fdf8698.png)
 
-| 🇺🇸                  | 🇨🇳                                        | 🇹🇼                                         | 🇮🇳                  | 🇫🇷                        | 🇦🇪                   | 🇩🇪                    | 🇯🇵                      | 🇪🇸                     |
-| --------------------- | ------------------------------------------- | -------------------------------------------- | --------------------- | --------------------------- | ---------------------- | ----------------------- | ------------------------- | ------------------------ |
-| [Englisch](README.md) | [Vereinfachtes Chinesisch](README.zh-CN.md) | [traditionelles Chinesisch](README.zh-TW.md) | [Hindi](README.hi.md) | [Französisch](README.fr.md) | [Araber](README.ar.md) | [Deutsch](README.de.md) | [japanisch](README.ja.md) | [Spanisch](README.es.md) |
+| 🇺🇸                  | 🇨🇳                    | 🇹🇼                                         | 🇮🇳                  | 🇫🇷                        | 🇦🇪                   | 🇩🇪                    | 🇯🇵                      | 🇪🇸                     |
+| --------------------- | ----------------------- | -------------------------------------------- | --------------------- | --------------------------- | ---------------------- | ----------------------- | ------------------------- | ------------------------ |
+| [Englisch](README.md) | [简体中文](README.zh-CN.md) | [traditionelles Chinesisch](README.zh-TW.md) | [Hindi](README.hi.md) | [Französisch](README.fr.md) | [Araber](README.ar.md) | [Deutsch](README.de.md) | [japanisch](README.ja.md) | [Spanisch](README.es.md) |
 
 ## Merkmale
 
@@ -34,7 +34,7 @@ _Bing-Chat_
 
 **Für Desktop:**
 
-1.  Gehe zum[Release-Seite](https://github.com/qzxtu/Copilot-Chat-Pro/releases)und laden Sie die neueste Version herunter.
+1.  Gehe zum[Release-Seite](https://github.com/qzxtu/Copilot-Chat-Pro/releases) and download the latest version.
 2.  Dekomprimieren Sie die heruntergeladene ZIP-Datei.
 3.  Öffnen Sie Ihren Browser und navigieren Sie zu:
     -   **Chrom:**`chrome://extensions/`
@@ -52,6 +52,8 @@ _Bing-Chat_
 1.  Öffnen Sie die Bing- oder Copilot-Website.
 2.  Chatten Sie, ohne sich Gedanken über Zeichenbeschränkungen machen zu müssen.
 3.  Genießen Sie es!
+
+⚠️ Die Erweiterung funktioniert nicht für die Edge-Copilot-Seitentaste und auch nicht für den Copilot, der in Windows integriert ist.
 
 ## Danksagungen
 
