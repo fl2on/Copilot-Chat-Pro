@@ -34,7 +34,7 @@ _Chat Bing_
 
 **Pour le bureau :**
 
-1.  Allez au[page de sortie](https://github.com/qzxtu/Copilot-Chat-Pro/releases)et téléchargez la dernière version.
+1.  Allez au[release page](https://github.com/qzxtu/Copilot-Chat-Pro/releases)et téléchargez la dernière version.
 2.  Décompressez le fichier zip téléchargé.
 3.  Ouvrez votre navigateur et accédez à :
     -   **Chrome:**`chrome://extensions/`
