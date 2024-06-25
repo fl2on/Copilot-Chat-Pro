@@ -34,8 +34,8 @@ _Bing-Chat_
 
 1.  Gehe zum[Release-Seite](https://github.com/qzxtu/Copilot-Chat-Pro/releases)und laden Sie die neueste Version herunter.
 2.  Dekomprimieren Sie die heruntergeladene ZIP-Datei.
-3.  Öffnen Sie Ihren Browser und navigieren Sie zu:
-    -   **Chrom:**`chrome://extensions/`
+3.  Open your browser and navigate to:
+    -   **Chrom:** `chrome://extensions/`
     -   **Rand:**`edge://extensions/`
 4.  Aktivieren Sie oben rechts den „Entwicklermodus“.
 5.  Klicken Sie auf „Entpackt laden“ und wählen Sie den dekomprimierten Ordner aus Schritt 2 aus.
@@ -57,7 +57,7 @@ Dieses Projekt entstand aus der Notwendigkeit heraus, das folgende Projekt zu ak
 
 Ein besonderer Dank geht an den ursprünglichen Schöpfer von Bing Chat Pro,[Blueagler](https://github.com/blueagler), für ihren Beitrag zur Gemeinschaft.
 
-## Probleme
+## Issues
 
 Wenn Sie auf Probleme stoßen oder Vorschläge haben, wenden Sie sich bitte an uns[ein Problem eröffnen](https://github.com/qzxtu/copilot-chat-pro/issues).
 
