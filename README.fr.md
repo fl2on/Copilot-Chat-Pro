@@ -26,7 +26,9 @@ _Chat Bing_
 
 ![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
 
-![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/151354d0-c04f-4051-a2be-b55a664ddae1)
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/fd7288a6-d153-4c45-ba7a-32662374b4a3)
+
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/56b8c6a1-19c4-440b-9467-64b6c45013bf)
 
 ## Installation
 
@@ -34,7 +36,7 @@ _Chat Bing_
 
 1.  Allez au[page de sortie](https://github.com/qzxtu/Copilot-Chat-Pro/releases)et téléchargez la dernière version.
 2.  Décompressez le fichier zip téléchargé.
-3.  Ouvrez votre navigateur et accédez à :
+3.  Open your browser and navigate to:
     -   **Chrome:**`chrome://extensions/`
     -   **Bord:**`edge://extensions/`
 4.  Activez le « Mode développeur » en haut à droite.
@@ -63,7 +65,7 @@ Si vous rencontrez des problèmes ou avez des suggestions, veuillez[ouvrir un su
 
 ## Licence
 
-This project is licensed under the Apache 2.0 License - see the [LICENCE](LICENSE)fichier pour plus de détails.
+Ce projet est sous licence Apache 2.0 - voir le[LICENCE](LICENSE)fichier pour plus de détails.
 
 ## Contributions
 
