@@ -1,17 +1,8 @@
 (() => {
-    const urlPattern = {
-        matches: [
-            "*://www.bing.com/search*",
-            "https://copilot.microsoft.com/*",
-        ]
-    };
-
     async function removeCharLimit() {
         try {
             const searchInput = document.querySelector("#sb_form_q");
             if (searchInput) searchInput.removeAttribute("maxlength");
-
-            document.querySelector("#sb_chcounter_r")?.remove();
 
             const serp = document.querySelector("#b_sydConvCont > cib-serp");
             if (!serp) throw new Error("Elemento cib-serp no encontrado.");
