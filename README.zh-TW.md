@@ -26,7 +26,9 @@ _必應聊天_
 
 ![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
 
-![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/151354d0-c04f-4051-a2be-b55a664ddae1)
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/fd7288a6-d153-4c45-ba7a-32662374b4a3)
+
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/56b8c6a1-19c4-440b-9467-64b6c45013bf)
 
 ## 安裝
 
@@ -55,7 +57,7 @@ _必應聊天_
 
 該項目是出於更新以下項目的需要而創建的：[必應聊天專業版](https://github.com/blueagler/Bing-Chat-Pro)。後者為 Copilot Chat Pro™ 的開發提供了靈感。
 
-特別感謝 Bing Chat Pro 的原創者，[布勞艾格勒](https://github.com/blueagler)，以表彰他們對社區的貢獻。
+特別感謝 Bing Chat Pro 的原創者，[布勞艾格勒](https://github.com/blueagler)，表彰他們對社區的貢獻。
 
 ## 問題
 
