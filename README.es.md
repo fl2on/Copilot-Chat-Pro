@@ -49,9 +49,11 @@ _Chat de Bing_
 
 ## Uso
 
-1.  Open Bing or Copilot Website.
+1.  Abra el sitio web Bing o Copilot.
 2.  Chatea sin preocuparte por los límites de caracteres.
 3.  ¡Disfrútala!
+
+⚠️ La extensión no sirve para el botón lateral del copiloto edge, ni tampoco para el copiloto que viene integrado en windows.
 
 ## Agradecimientos
 
