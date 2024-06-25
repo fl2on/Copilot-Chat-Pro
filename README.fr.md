@@ -63,7 +63,7 @@ Si vous rencontrez des problèmes ou avez des suggestions, veuillez[ouvrir un su
 
 ## Licence
 
-Ce projet est sous licence Apache 2.0 - voir le[LICENCE](LICENSE)fichier pour plus de détails.
+This project is licensed under the Apache 2.0 License - see the [LICENCE](LICENSE)fichier pour plus de détails.
 
 ## Contributions
 
