@@ -22,7 +22,7 @@ _副驾驶_
 
 ![Screenshot 2](https://user-images.githubusercontent.com/69091361/297644588-1b3c7295-c6b2-46f9-9999-a99c95aad580.png)
 
-_必应聊天_
+_Bing Chat_
 
 ![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
 
@@ -53,9 +53,11 @@ _必应聊天_
 2.  聊天时无需担心字符限制。
 3.  好好享受！
 
+⚠️ 该扩展不适用于边缘副驾驶侧按钮，也不适用于集成在 Windows 中的副驾驶。
+
 ## 致谢
 
-该项目是出于更新以下项目的需要而创建的：[必应聊天专业版](https://github.com/blueagler/Bing-Chat-Pro)。后者为 Copilot Chat Pro™ 的开发提供了灵感。
+该项目是出于更新以下项目的需要而创建的：[Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro)。后者为 Copilot Chat Pro™ 的开发提供了灵感。
 
 特别感谢 Bing Chat Pro 的原创者，[布劳艾格勒](https://github.com/blueagler)，表彰他们对社区的贡献。
 
@@ -69,9 +71,9 @@ _必应聊天_
 
 ## 贡献
 
-欢迎贡献！请分叉存储库并使用您的更改创建拉取请求。
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## 支持
+## Support
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
 [![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
