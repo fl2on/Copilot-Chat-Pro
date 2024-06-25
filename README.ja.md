@@ -44,7 +44,7 @@ _Bing チャット_
 
 **アンドロイド用：**
 
-1.  Android 用 Copilot Chat Pro™ を次からダウンロードします。[リリースページ](https://github.com/qzxtu/Copilot-Chat-Pro/releases)。
+1.  Android 用 Copilot Chat Pro™ を次からダウンロードします。[リリースページ](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
 2.  画面上の指示に従ってアプリをインストールします。
 
 ## 使用法
@@ -52,6 +52,8 @@ _Bing チャット_
 1.  Bing または Copilot の Web サイトを開きます。
 2.  文字数制限を気にせずチャットできます。
 3.  楽しめ！
+
+⚠️ この拡張機能は、Edge コパイロットのサイド ボタンでは機能せず、Windows に統合されているコパイロットでも機能しません。
 
 ## 謝辞
 
@@ -71,7 +73,7 @@ Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げま
 
 貢献は大歓迎です!リポジトリをフォークし、変更を加えたプル リクエストを作成してください。
 
-## サポート
+## Support
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
 [![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
