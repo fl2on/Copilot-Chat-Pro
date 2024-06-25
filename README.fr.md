@@ -36,7 +36,7 @@ _Chat Bing_
 
 1.  Allez au[page de sortie](https://github.com/qzxtu/Copilot-Chat-Pro/releases)et téléchargez la dernière version.
 2.  Décompressez le fichier zip téléchargé.
-3.  Open your browser and navigate to:
+3.  Ouvrez votre navigateur et accédez à :
     -   **Chrome:**`chrome://extensions/`
     -   **Bord:**`edge://extensions/`
 4.  Activez le « Mode développeur » en haut à droite.
