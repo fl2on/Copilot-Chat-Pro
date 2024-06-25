@@ -26,7 +26,9 @@ _Bing チャット_
 
 ![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
 
-![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/151354d0-c04f-4051-a2be-b55a664ddae1)
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/fd7288a6-d153-4c45-ba7a-32662374b4a3)
+
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/56b8c6a1-19c4-440b-9467-64b6c45013bf)
 
 ## インストール
 
@@ -67,7 +69,7 @@ Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げま
 
 ## 貢献
 
-貢献は大歓迎です！リポジトリをフォークし、変更を加えたプル リクエストを作成してください。
+貢献は大歓迎です!リポジトリをフォークし、変更を加えたプル リクエストを作成してください。
 
 ## サポート
 
