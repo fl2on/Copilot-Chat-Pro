@@ -26,7 +26,9 @@ _Bing-Chat_
 
 ![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
 
-![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/151354d0-c04f-4051-a2be-b55a664ddae1)
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/fd7288a6-d153-4c45-ba7a-32662374b4a3)
+
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/56b8c6a1-19c4-440b-9467-64b6c45013bf)
 
 ## Installation
 
@@ -34,8 +36,8 @@ _Bing-Chat_
 
 1.  Gehe zum[Release-Seite](https://github.com/qzxtu/Copilot-Chat-Pro/releases)und laden Sie die neueste Version herunter.
 2.  Dekomprimieren Sie die heruntergeladene ZIP-Datei.
-3.  Open your browser and navigate to:
-    -   **Chrom:** `chrome://extensions/`
+3.  Öffnen Sie Ihren Browser und navigieren Sie zu:
+    -   **Chrom:**`chrome://extensions/`
     -   **Rand:**`edge://extensions/`
 4.  Aktivieren Sie oben rechts den „Entwicklermodus“.
 5.  Klicken Sie auf „Entpackt laden“ und wählen Sie den dekomprimierten Ordner aus Schritt 2 aus.
@@ -57,7 +59,7 @@ Dieses Projekt entstand aus der Notwendigkeit heraus, das folgende Projekt zu ak
 
 Ein besonderer Dank geht an den ursprünglichen Schöpfer von Bing Chat Pro,[Blueagler](https://github.com/blueagler), für ihren Beitrag zur Gemeinschaft.
 
-## Issues
+## Probleme
 
 Wenn Sie auf Probleme stoßen oder Vorschläge haben, wenden Sie sich bitte an uns[ein Problem eröffnen](https://github.com/qzxtu/copilot-chat-pro/issues).
 
