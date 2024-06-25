@@ -8,7 +8,7 @@
 
 ## 特征
 
--   ✨ 无限聊天框：摆脱字符限制（4000 -> ∞）。表达无界限！
+-   ✨ Limitless Chatboxes: Break free from character restrictions (4000 -> ∞). Express without boundaries!
 
 -   🔍 支持 Bing Chat 和 Copilot。通过智能搜索和协作编码扩大您的工作流程。
 
@@ -53,7 +53,7 @@ _必应聊天_
 2.  聊天时无需担心字符限制。
 3.  好好享受！
 
-## 致谢
+## Acknowledgements
 
 该项目是出于更新以下项目的需要而创建的：[必应聊天专业版](https://github.com/blueagler/Bing-Chat-Pro)。后者为 Copilot Chat Pro™ 的开发提供了灵感。
 
