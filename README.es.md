@@ -49,7 +49,7 @@ _Chat de Bing_
 
 ## Uso
 
-1.  Abra el sitio web Bing o Copilot.
+1.  Open Bing or Copilot Website.
 2.  Chatea sin preocuparte por los límites de caracteres.
 3.  ¡Disfrútala!
 
