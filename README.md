@@ -49,6 +49,8 @@
 2. Chat without worrying about character limits.
 3. Enjoy It!
 
+⚠️ The extension does not work for the edge copilot side button, neither for copilot that comes integrated in windows.
+
 ## Acknowledgements
 
 This project was created out of the need to update the following project: [Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro). The latter served as inspiration for the development of Copilot Chat Pro™.
