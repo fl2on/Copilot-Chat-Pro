@@ -26,7 +26,9 @@ _必应聊天_
 
 ![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
 
-![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/151354d0-c04f-4051-a2be-b55a664ddae1)
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/fd7288a6-d153-4c45-ba7a-32662374b4a3)
+
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/56b8c6a1-19c4-440b-9467-64b6c45013bf)
 
 ## 安装
 
@@ -36,7 +38,7 @@ _必应聊天_
 2.  解压下载的 zip 文件。
 3.  打开浏览器并导航至：
     -   **铬合金：**`chrome://extensions/`
-    -   **边缘：** `edge://extensions/`
+    -   **边缘：**`edge://extensions/`
 4.  启用右上角的“开发者模式”。
 5.  单击“加载已解压的文件”并选择步骤 2 中解压的文件夹。
 
@@ -55,7 +57,7 @@ _必应聊天_
 
 该项目是出于更新以下项目的需要而创建的：[必应聊天专业版](https://github.com/blueagler/Bing-Chat-Pro)。后者为 Copilot Chat Pro™ 的开发提供了灵感。
 
-特别感谢 Bing Chat Pro 的原创者，[布劳艾格勒](https://github.com/blueagler)，以表彰他们对社区的贡献。
+特别感谢 Bing Chat Pro 的原创者，[布劳艾格勒](https://github.com/blueagler)，表彰他们对社区的贡献。
 
 ## 问题
 
