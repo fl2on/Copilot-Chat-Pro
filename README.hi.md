@@ -6,7 +6,7 @@
 | ---------------------- | ------------------------------- | -------------------------------- | --------------------- | ----------------------- | ------------------- | --------------------- | ---------------------- | ----------------------- |
 | [अंग्रेज़ी](README.md) | [सरलीकृत चीनी](README.zh-CN.md) | [परंपरागत चीनी](README.zh-TW.md) | [हिंदी](README.hi.md) | [फ़्रेंच](README.fr.md) | [अरब](README.ar.md) | [जर्मन](README.de.md) | [जापानी](README.ja.md) | [स्पैनिश](README.es.md) |
 
-## Features
+## विशेषताएँ
 
 -   ✨ असीमित चैटबॉक्स: चरित्र प्रतिबंधों से मुक्त हो जाएं (4000 -> ∞)। बिना सीमाओं के व्यक्त करें!
 
@@ -26,13 +26,15 @@ _बिंग चैट_
 
 ![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
 
-![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/151354d0-c04f-4051-a2be-b55a664ddae1)
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/fd7288a6-d153-4c45-ba7a-32662374b4a3)
+
+![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/56b8c6a1-19c4-440b-9467-64b6c45013bf)
 
 ## इंस्टालेशन
 
 **डेस्कटॉप के लिए:**
 
-1.  के पास जाओ[रिलीज पेज](https://github.com/qzxtu/Copilot-Chat-Pro/releases)और नवीनतम संस्करण डाउनलोड करें.
+1.  के पास जाओ[रिलीज पेज](https://github.com/qzxtu/Copilot-Chat-Pro/releases)और नवीनतम संस्करण डाउनलोड करें।
 2.  डाउनलोड की गई ज़िप फ़ाइल को डीकंप्रेस करें।
 3.  अपना ब्राउज़र खोलें और यहां नेविगेट करें:
     -   **क्रोम:**`chrome://extensions/`
