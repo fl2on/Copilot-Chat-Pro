@@ -45,7 +45,7 @@ _Bing-Chat_
 **Für Android:**
 
 1.  Laden Sie Copilot Chat Pro™ für Android herunter von[Release-Seite](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
-2.  Befolgen Sie die Anweisungen auf dem Bildschirm, um die App zu installieren.
+2.  Follow the on-screen instructions to install the app.
 
 ## Verwendung
 
