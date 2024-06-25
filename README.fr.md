@@ -34,7 +34,7 @@ _Chat Bing_
 
 **Pour le bureau :**
 
-1.  Allez au[release page](https://github.com/qzxtu/Copilot-Chat-Pro/releases)et téléchargez la dernière version.
+1.  Allez au[page de sortie](https://github.com/qzxtu/Copilot-Chat-Pro/releases)et téléchargez la dernière version.
 2.  Décompressez le fichier zip téléchargé.
 3.  Ouvrez votre navigateur et accédez à :
     -   **Chrome:**`chrome://extensions/`
@@ -52,6 +52,8 @@ _Chat Bing_
 1.  Ouvrez le site Web Bing ou Copilot.
 2.  Discutez sans vous soucier des limites de caractères.
 3.  Profitez-en!
+
+⚠️ L'extension ne fonctionne pas pour le bouton latéral du copilote Edge, ni pour le copilote intégré dans Windows.
 
 ## Remerciements
 
