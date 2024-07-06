@@ -10,6 +10,8 @@
 
 -   ✨ 無制限のチャットボックス: 文字数制限 (4000 -> ∞) から解放されます。境界線なく表現しましょう！
 
+-   ⚠️ Copilot バックエンド コードによって設定される実際の制限は、(およそ) 約 23,870 文字です。
+
 -   🔍 Bing Chat と Copilot のサポート。インテリジェントな検索と共同コーディングでワークフローを強化します。
 
 -   📱 Android のエンパワーメント: 外出先でも会話を楽しめます! Copilot Chat Pro™ が Android で利用できるようになり、いつでもどこでも接続を維持できます。
@@ -44,7 +46,7 @@ _Bing チャット_
 
 **アンドロイド用：**
 
-1.  Android 用 Copilot Chat Pro™ を次からダウンロードします。[リリースページ](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
+1.  Android 用 Copilot Chat Pro™ を次からダウンロードします。[リリースページ](https://github.com/qzxtu/Copilot-Chat-Pro/releases)。
 2.  画面上の指示に従ってアプリをインストールします。
 
 ## 使用法
@@ -73,7 +75,7 @@ Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げま
 
 貢献は大歓迎です!リポジトリをフォークし、変更を加えたプル リクエストを作成してください。
 
-## Support
+## サポート
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
 [![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
