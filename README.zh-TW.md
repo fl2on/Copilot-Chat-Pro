@@ -10,6 +10,8 @@
 
 -   ✨ 無限聊天框：擺脫字元限制（4000 -> ∞）。表達無界限！
 
+-   ⚠️ Copilot 後端程式碼設定的實際限制約為 23,870 個字元（大約）。
+
 -   🔍 支援 Bing Chat 和 Copilot。透過智慧搜尋和協作編碼擴大您的工作流程。
 
 -   📱 Android 授權：隨時隨地進行對話！ Copilot Chat Pro™ 現已在 Android 上推出，確保您隨時隨地保持聯繫。
@@ -49,7 +51,7 @@ _必應聊天_
 
 ## 用法
 
-1.  開啟 Bing 或 Copilot 網站。
+1.  Open Bing or Copilot Website.
 2.  聊天時無需擔心字元限制。
 3.  好好享受！
 
@@ -59,7 +61,7 @@ _必應聊天_
 
 該項目是出於更新以下項目的需要而創建的：[必應聊天專業版](https://github.com/blueagler/Bing-Chat-Pro)。後者為 Copilot Chat Pro™ 的開發提供了靈感。
 
-特別感謝 Bing Chat Pro 的原創者，[布勞艾格勒](https://github.com/blueagler)，表彰他們對社區的貢獻。
+特別感謝 Bing Chat Pro 的原創者，[布勞艾格勒](https://github.com/blueagler)，以表彰他們對社區的貢獻。
 
 ## 問題
 
