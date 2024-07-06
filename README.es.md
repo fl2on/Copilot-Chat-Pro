@@ -10,6 +10,8 @@
 
 -   ✨ Chatboxes ilimitados: Libérate de las restricciones de personajes (4000 -> ∞). ¡Exprésate sin límites!
 
+-   ⚠️ El límite real establecido por el código backend de Copilot es de aproximadamente 23,870 caracteres (aproximadamente).
+
 -   🔍 Soporte para Bing Chat y Copilot. Amplifique su flujo de trabajo con búsqueda inteligente y codificación colaborativa.
 
 -   📱 Empoderamiento de Android: ¡lleva la conversación mientras viajas! Copilot Chat Pro™ ahora está disponible en Android, lo que garantiza que permanezca conectado en cualquier momento y en cualquier lugar.
