@@ -10,6 +10,8 @@
 
 -   ✨ 无限聊天框：摆脱字符限制（4000 -> ∞）。表达无界限！
 
+-   ⚠️ Copilot 后端代码设置的实际限制约为 23,870 个字符（大约）。
+
 -   🔍 支持 Bing Chat 和 Copilot。通过智能搜索和协作编码扩大您的工作流程。
 
 -   📱 Android 授权：随时随地进行对话！ Copilot Chat Pro™ 现已在 Android 上推出，确保您随时随地保持联系。
@@ -22,7 +24,7 @@ _副驾驶_
 
 ![Screenshot 2](https://user-images.githubusercontent.com/69091361/297644588-1b3c7295-c6b2-46f9-9999-a99c95aad580.png)
 
-_Bing Chat_
+_必应聊天_
 
 ![image](https://github.com/qzxtu/Copilot-Chat-Pro/assets/69091361/765cde2d-514f-449f-b88b-5cbef013560a)
 
@@ -34,8 +36,8 @@ _Bing Chat_
 
 **对于桌面：**
 
-1.  前往[发布页面](https://github.com/qzxtu/Copilot-Chat-Pro/releases)并下载最新版本。
-2.  解压下载的 zip 文件。
+1.  Go to the [发布页面](https://github.com/qzxtu/Copilot-Chat-Pro/releases)并下载最新版本。
+2.  Decompress the downloaded zip file.
 3.  打开浏览器并导航至：
     -   **铬合金：**`chrome://extensions/`
     -   **边缘：**`edge://extensions/`
@@ -57,9 +59,9 @@ _Bing Chat_
 
 ## 致谢
 
-该项目是出于更新以下项目的需要而创建的：[Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro)。后者为 Copilot Chat Pro™ 的开发提供了灵感。
+该项目是出于更新以下项目的需要而创建的：[必应聊天专业版](https://github.com/blueagler/Bing-Chat-Pro)。后者为 Copilot Chat Pro™ 的开发提供了灵感。
 
-特别感谢 Bing Chat Pro 的原创者，[布劳艾格勒](https://github.com/blueagler)，表彰他们对社区的贡献。
+特别感谢 Bing Chat Pro 的原创者，[布劳艾格勒](https://github.com/blueagler)，以表彰他们对社区的贡献。
 
 ## 问题
 
@@ -71,9 +73,9 @@ _Bing Chat_
 
 ## 贡献
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+欢迎贡献！请分叉存储库并使用您的更改创建拉取请求。
 
-## Support
+## 支持
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
 [![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
