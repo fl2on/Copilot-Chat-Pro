@@ -2,13 +2,15 @@
 
 ![image](https://user-images.githubusercontent.com/69091361/297645227-67e62dd6-9322-4622-aa35-f7624fdf8698.png)
 
-| 🇺🇸                  | 🇨🇳                    | 🇹🇼                                         | 🇮🇳                  | 🇫🇷                        | 🇦🇪                   | 🇩🇪                    | 🇯🇵                      | 🇪🇸                     |
-| --------------------- | ----------------------- | -------------------------------------------- | --------------------- | --------------------------- | ---------------------- | ----------------------- | ------------------------- | ------------------------ |
-| [Englisch](README.md) | [简体中文](README.zh-CN.md) | [traditionelles Chinesisch](README.zh-TW.md) | [Hindi](README.hi.md) | [Französisch](README.fr.md) | [Araber](README.ar.md) | [Deutsch](README.de.md) | [japanisch](README.ja.md) | [Spanisch](README.es.md) |
+| 🇺🇸                  | 🇨🇳                                        | 🇹🇼                                         | 🇮🇳                  | 🇫🇷                        | 🇦🇪                   | 🇩🇪                    | 🇯🇵                      | 🇪🇸                     |
+| --------------------- | ------------------------------------------- | -------------------------------------------- | --------------------- | --------------------------- | ---------------------- | ----------------------- | ------------------------- | ------------------------ |
+| [Englisch](README.md) | [Vereinfachtes Chinesisch](README.zh-CN.md) | [traditionelles Chinesisch](README.zh-TW.md) | [Hindi](README.hi.md) | [Französisch](README.fr.md) | [Araber](README.ar.md) | [Deutsch](README.de.md) | [japanisch](README.ja.md) | [Spanisch](README.es.md) |
 
 ## Merkmale
 
 -   ✨ Unbegrenzte Chatboxen: Befreien Sie sich von Zeichenbeschränkungen (4000 -> ∞). Express ohne Grenzen!
+
+-   ⚠️ Das vom Copilot-Backend-Code tatsächlich festgelegte Limit beträgt etwa 23.870 Zeichen (ungefähr).
 
 -   🔍 Unterstützung für Bing Chat und Copilot. Erweitern Sie Ihren Workflow mit intelligenter Suche und kollaborativer Codierung.
 
@@ -34,7 +36,7 @@ _Bing-Chat_
 
 **Für Desktop:**
 
-1.  Gehe zum[Release-Seite](https://github.com/qzxtu/Copilot-Chat-Pro/releases) and download the latest version.
+1.  Gehe zum[Release-Seite](https://github.com/qzxtu/Copilot-Chat-Pro/releases)und laden Sie die neueste Version herunter.
 2.  Dekomprimieren Sie die heruntergeladene ZIP-Datei.
 3.  Öffnen Sie Ihren Browser und navigieren Sie zu:
     -   **Chrom:**`chrome://extensions/`
