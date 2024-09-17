@@ -36,8 +36,8 @@ _必应聊天_
 
 **对于桌面：**
 
-1.  Go to the [发布页面](https://github.com/qzxtu/Copilot-Chat-Pro/releases)并下载最新版本。
-2.  Decompress the downloaded zip file.
+1.  前往[发布页面](https://github.com/qzxtu/Copilot-Chat-Pro/releases)并下载最新版本。
+2.  解压下载的 zip 文件。
 3.  打开浏览器并导航至：
     -   **铬合金：**`chrome://extensions/`
     -   **边缘：**`edge://extensions/`
@@ -65,7 +65,7 @@ _必应聊天_
 
 ## 问题
 
-如果您遇到任何问题或有建议，请[打开一个问题](https://github.com/qzxtu/copilot-chat-pro/issues).
+If you encounter any issues or have suggestions, please [打开一个问题](https://github.com/qzxtu/copilot-chat-pro/issues).
 
 ## 执照
 
