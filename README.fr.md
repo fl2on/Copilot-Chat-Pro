@@ -4,7 +4,7 @@
 
 | 🇺🇸                 | 🇨🇳                                 | 🇹🇼                                    | 🇮🇳                  | 🇫🇷                      | 🇦🇪                  | 🇩🇪                     | 🇯🇵                     | 🇪🇸                     |
 | -------------------- | ------------------------------------ | --------------------------------------- | --------------------- | ------------------------- | --------------------- | ------------------------ | ------------------------ | ------------------------ |
-| [Anglais](README.md) | [Chinois simplifié](README.zh-CN.md) | [chinois traditionnel](README.zh-TW.md) | [hindi](README.hi.md) | [Française](README.fr.md) | [arabe](README.ar.md) | [Allemand](README.de.md) | [Japonais](README.ja.md) | [Espagnol](README.es.md) |
+| [Anglais](README.md) | [Chinois simplifié](README.zh-CN.md) | [Chinois traditionnel](README.zh-TW.md) | [hindi](README.hi.md) | [Française](README.fr.md) | [arabe](README.ar.md) | [Allemand](README.de.md) | [japonais](README.ja.md) | [Espagnol](README.es.md) |
 
 ## Caractéristiques
 
@@ -44,7 +44,7 @@ _Chat Bing_
 4.  Activez le « Mode développeur » en haut à droite.
 5.  Cliquez sur "Charger décompressé" et sélectionnez le dossier décompressé de l'étape 2.
 
-**Pour Android:**
+**Pour Android :**
 
 1.  Téléchargez Copilot Chat Pro™ pour Android à partir de[page de sortie](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
 2.  Suivez les instructions à l'écran pour installer l'application.
@@ -71,7 +71,7 @@ Si vous rencontrez des problèmes ou avez des suggestions, veuillez[ouvrir un su
 
 Ce projet est sous licence Apache 2.0 - voir le[LICENCE](LICENSE)fichier pour plus de détails.
 
-## Contributions
+## Cotisations
 
 Les contributions sont les bienvenues ! Veuillez créer le référentiel et créer une pull request avec vos modifications.
 
