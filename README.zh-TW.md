@@ -51,7 +51,7 @@ _必應聊天_
 
 ## 用法
 
-1.  Open Bing or Copilot Website.
+1.  開啟 Bing 或 Copilot 網站。
 2.  聊天時無需擔心字元限制。
 3.  好好享受！
 
