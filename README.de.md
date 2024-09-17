@@ -10,7 +10,7 @@
 
 -   ✨ Unbegrenzte Chatboxen: Befreien Sie sich von Zeichenbeschränkungen (4000 -> ∞). Express ohne Grenzen!
 
--   ⚠️ The actual limit set by the Copilot backend code is about 23,870 characters (approximately).
+-   ⚠️ Das vom Copilot-Backend-Code tatsächlich festgelegte Limit beträgt etwa 23.870 Zeichen (ungefähr).
 
 -   🔍 Unterstützung für Bing Chat und Copilot. Erweitern Sie Ihren Workflow mit intelligenter Suche und kollaborativer Codierung.
 
@@ -73,7 +73,7 @@ Dieses Projekt ist unter der Apache 2.0-Lizenz lizenziert – siehe[LIZENZ](LICE
 
 ## Beiträge
 
-Beiträge sind willkommen! Bitte forken Sie das Repository und erstellen Sie eine Pull-Anfrage mit Ihren Änderungen.
+Beiträge sind willkommen! Bitte teilen Sie das Repository auf und erstellen Sie eine Pull-Anfrage mit Ihren Änderungen.
 
 ## Unterstützung
 
