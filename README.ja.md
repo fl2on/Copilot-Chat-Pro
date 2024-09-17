@@ -4,7 +4,7 @@
 
 | 🇺🇸            | 🇨🇳                      | 🇹🇼                    | 🇮🇳                   | 🇫🇷                  | 🇦🇪                | 🇩🇪                 | 🇯🇵                | 🇪🇸                  |
 | --------------- | ------------------------- | ----------------------- | ---------------------- | --------------------- | ------------------- | -------------------- | ------------------- | --------------------- |
-| [英語](README.md) | [簡体字中国語](README.zh-CN.md) | [繁体中文](README.zh-TW.md) | [ヒンディー語](README.hi.md) | [フランス語](README.fr.md) | [アラブ](README.ar.md) | [ドイツ人](README.de.md) | [日本語](README.ja.md) | [スペイン語](README.es.md) |
+| [英語](README.md) | [簡体字中国語](README.zh-CN.md) | [繁体中文](README.zh-TW.md) | [ヒンディー語](README.hi.md) | [フランス語](README.fr.md) | [アラブ](README.ar.md) | [ドイツ語](README.de.md) | [日本語](README.ja.md) | [スペイン語](README.es.md) |
 
 ## 特徴
 
@@ -44,9 +44,9 @@ _Bing チャット_
 4.  右上の「開発者モード」を有効にします。
 5.  「解凍してロード」をクリックし、手順 2 で解凍したフォルダーを選択します。
 
-**アンドロイド用：**
+**アンドロイドの場合:**
 
-1.  Android 用 Copilot Chat Pro™ を次からダウンロードします。[リリースページ](https://github.com/qzxtu/Copilot-Chat-Pro/releases)。
+1.  Android 用 Copilot Chat Pro™ を次からダウンロードします。[リリースページ](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
 2.  画面上の指示に従ってアプリをインストールします。
 
 ## 使用法
@@ -65,7 +65,7 @@ Bing Chat Pro のオリジナルの作成者に特別な感謝を申し上げま
 
 ## 問題
 
-問題が発生したり、提案がある場合は、[問題を開く](https://github.com/qzxtu/copilot-chat-pro/issues)。
+問題が発生したり、提案がある場合は、[問題を開く](https://github.com/qzxtu/copilot-chat-pro/issues).
 
 ## ライセンス
 
