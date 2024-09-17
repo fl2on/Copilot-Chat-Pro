@@ -2,9 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/69091361/297645227-67e62dd6-9322-4622-aa35-f7624fdf8698.png)
 
-| 🇺🇸                | 🇨🇳                                  | 🇹🇼                                 | 🇮🇳                  | 🇫🇷                     | 🇦🇪                  | 🇩🇪                   | 🇯🇵                    | 🇪🇸                    |
-| ------------------- | ------------------------------------- | ------------------------------------ | --------------------- | ------------------------ | --------------------- | ---------------------- | ----------------------- | ----------------------- |
-| [Inglés](README.md) | [Chino simplificado](README.zh-CN.md) | [chino tradicional](README.zh-TW.md) | [hindi](README.hi.md) | [Francésa](README.fr.md) | [árabe](README.ar.md) | [Alemán](README.de.md) | [japonés](README.ja.md) | [Español](README.es.md) |
+| 🇺🇸                | 🇨🇳                    | 🇹🇼                                 | 🇮🇳                  | 🇫🇷                    | 🇦🇪                  | 🇩🇪                   | 🇯🇵                    | 🇪🇸                    |
+| ------------------- | ----------------------- | ------------------------------------ | --------------------- | ----------------------- | --------------------- | ---------------------- | ----------------------- | ----------------------- |
+| [Inglés](README.md) | [简体中文](README.zh-CN.md) | [chino tradicional](README.zh-TW.md) | [hindi](README.hi.md) | [Francés](README.fr.md) | [árabe](README.ar.md) | [Alemán](README.de.md) | [japonés](README.ja.md) | [Español](README.es.md) |
 
 ## Características
 
@@ -36,7 +36,7 @@ _Chat de Bing_
 
 **Para escritorio:**
 
-1.  Ve a la[página de lanzamiento](https://github.com/qzxtu/Copilot-Chat-Pro/releases)y descargue la última versión.
+1.  Go to the [página de lanzamiento](https://github.com/qzxtu/Copilot-Chat-Pro/releases)y descargue la última versión.
 2.  Descomprime el archivo zip descargado.
 3.  Abra su navegador y navegue hasta:
     -   **Cromo:**`chrome://extensions/`
@@ -57,15 +57,15 @@ _Chat de Bing_
 
 ⚠️ La extensión no sirve para el botón lateral del copiloto edge, ni tampoco para el copiloto que viene integrado en windows.
 
-## Agradecimientos
+## Expresiones de gratitud
 
-Este proyecto fue creado por la necesidad de actualizar el siguiente proyecto:[Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro). Este último sirvió de inspiración para el desarrollo de Copilot Chat Pro™.
+This project was created out of the need to update the following project: [Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro). Este último sirvió de inspiración para el desarrollo de Copilot Chat Pro™.
 
 Un agradecimiento especial al creador original de Bing Chat Pro,[águila azul](https://github.com/blueagler), por su contribución a la comunidad.
 
 ## Asuntos
 
-Si encuentra algún problema o tiene sugerencias, por favor[abrir un problema](https://github.com/qzxtu/copilot-chat-pro/issues).
+If you encounter any issues or have suggestions, please [abrir un problema](https://github.com/qzxtu/copilot-chat-pro/issues).
 
 ## Licencia
 
