@@ -65,7 +65,7 @@ _必应聊天_
 
 ## 问题
 
-If you encounter any issues or have suggestions, please [打开一个问题](https://github.com/qzxtu/copilot-chat-pro/issues).
+如果您遇到任何问题或有建议，请[打开一个问题](https://github.com/qzxtu/copilot-chat-pro/issues).
 
 ## 执照
 
