@@ -38,7 +38,7 @@ _دردشة بينج_
 
 1.  اذهب الى[صفحة الإصدار](https://github.com/qzxtu/Copilot-Chat-Pro/releases)وتنزيل أحدث إصدار.
 2.  قم بفك ضغط الملف المضغوط الذي تم تنزيله.
-3.  افتح متصفحك وانتقل إلى:
+3.  افتح المتصفح الخاص بك وانتقل إلى:
     -   **الكروم:**`chrome://extensions/`
     -   **حافة:**`edge://extensions/`
 4.  قم بتمكين "وضع المطور" في الجزء العلوي الأيمن.
@@ -47,7 +47,7 @@ _دردشة بينج_
 **لالروبوت:**
 
 1.  قم بتنزيل برنامج Copilot Chat Pro™ لنظام Android من[صفحة الإصدار](https://github.com/qzxtu/Copilot-Chat-Pro/releases).
-2.  Follow the on-screen instructions to install the app.
+2.  اتبع التعليمات التي تظهر على الشاشة لتثبيت التطبيق.
 
 ## الاستخدام
 
