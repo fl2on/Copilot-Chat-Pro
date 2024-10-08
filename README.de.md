@@ -1,4 +1,4 @@
-# Copilot Chat Pro™
+# Copilot Chat Pro™ (gepatcht)
 
 ![image](https://user-images.githubusercontent.com/69091361/297645227-67e62dd6-9322-4622-aa35-f7624fdf8698.png)
 
@@ -73,9 +73,9 @@ Dieses Projekt ist unter der Apache 2.0-Lizenz lizenziert – siehe[LIZENZ](LICE
 
 ## Beiträge
 
-Beiträge sind willkommen! Bitte teilen Sie das Repository auf und erstellen Sie eine Pull-Anfrage mit Ihren Änderungen.
+Beiträge sind willkommen! Bitte forken Sie das Repository und erstellen Sie eine Pull-Anfrage mit Ihren Änderungen.
 
 ## Unterstützung
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
+ [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
 [![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
