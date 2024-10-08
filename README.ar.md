@@ -1,4 +1,4 @@
-# مساعد الطيار الدردشة برو ™
+# Copilot Chat Pro™ (مصححة)
 
 ![image](https://user-images.githubusercontent.com/69091361/297645227-67e62dd6-9322-4622-aa35-f7624fdf8698.png)
 
