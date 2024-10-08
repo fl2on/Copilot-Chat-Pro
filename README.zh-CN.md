@@ -1,4 +1,4 @@
-# 副驾驶聊天 Pro™
+# 副驾驶聊天 Pro™（已修补）
 
 ![image](https://user-images.githubusercontent.com/69091361/297645227-67e62dd6-9322-4622-aa35-f7624fdf8698.png)
 
@@ -42,7 +42,7 @@ _必应聊天_
     -   **铬合金：**`chrome://extensions/`
     -   **边缘：**`edge://extensions/`
 4.  启用右上角的“开发者模式”。
-5.  单击“加载已解压的文件”并选择步骤 2 中解压的文件夹。
+5.  Click on "Load unpacked" and select the decompressed folder from step 2.
 
 **对于安卓：**
 
@@ -59,7 +59,7 @@ _必应聊天_
 
 ## 致谢
 
-该项目是出于更新以下项目的需要而创建的：[必应聊天专业版](https://github.com/blueagler/Bing-Chat-Pro)。后者为 Copilot Chat Pro™ 的开发提供了灵感。
+该项目是出于更新以下项目的需要而创建的：[必应聊天专业版](https://github.com/blueagler/Bing-Chat-Pro). The latter served as inspiration for the development of Copilot Chat Pro™.
 
 特别感谢 Bing Chat Pro 的原创者，[布劳艾格勒](https://github.com/blueagler)，以表彰他们对社区的贡献。
 
